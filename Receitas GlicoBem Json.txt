@@ -1,0 +1,3433 @@
+[
+  {
+    "titulo": "BOLO DE CENOURA COM COBERTURA",
+    "ingredientes": [
+      "3 unidades (295g) de Cenouras grandes",
+      "2 unidades (30g) de Gemas",
+      "2 unidades (70g) de Claras",
+      "1/2 xícara (56g) de Óleo de coco",
+      "92.5g de Farinha de trigo 100% integral",
+      "92.5g de Farinha de amêndoas",
+      "1 colher de sopa cheia (15g) de Fermento químico em pó",
+      "1 pitada de Sal",
+      "1 xícara de chá (37g) de Adoçante p/ forno e fogão",
+      "4 barras (120g) de Chocolate em pó 100%",
+      "1/3 xícara de chá (50ml) de Leite Desnatado ou água quente",
+      "Adoçante a gosto para cobertura"
+    ],
+    "modo_preparo": [
+      "Massa: Bater no liquidificador as gemas, as cenouras (em pedaços) e o óleo.",
+      "Em uma tigela, misturar bem a farinha e o adoçante.",
+      "Bater as claras em neve com o sal.",
+      "Misturar todos os ingredientes em uma tigela vagarosamente e só então, acrescente o fermento.",
+      "Levar para assar em forma plana untada com manteiga e polvilhada com farinha.",
+      "Deixar assar por 20 minutos em forno à temperatura de 180°C.",
+      "Desligar o forno e deixar o bolo assar por mais 5 minutos.",
+      "Cobertura: Levar ao fogo o chocolate e o leite (ou água) até adquirir consistência de cobertura, adoce a gosto."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "12g",
+      "fibras": "4g",
+      "proteinas": "5g",
+      "calorias": "160 kcal"
+    }
+  },
+  {
+    "titulo": "BOLO DE BANANA",
+    "ingredientes": [
+      "2 colheres de sopa cheias de Farelo de aveia",
+      "2 colheres de sopa cheias de Farinha de Aveia",
+      "1 colher de sopa de manteiga",
+      "3 unidades de Clara",
+      "1 colher de chá de Gema",
+      "2 colheres de sopa cheias de Farelo de Trigo",
+      "¾ xícaras de Leite desnatado",
+      "1 colher de chá rasa de Canela (aumentar a gosto)",
+      "1 colher de chá de Fermento",
+      "3 Bananas nanicas (preferencialmente menos maduras)",
+      "5 colheres de sopa de adoçante forno e fogão"
+    ],
+    "modo_preparo": [
+      "Assar 3 bananas com casca, por 20 minutos, no forno a temperatura de 180°C.",
+      "Reservar o líquido que sobrar na forma.",
+      "Retirar a casca das bananas e colocá-las no micro-ondas por 2 minutos.",
+      "Amassar as 3 bananas, acrescentar a gema e as farinhas peneiradas, a manteiga, o leite, a canela e o adoçante e bater por 3 minutos.",
+      "Bater as claras em neve e adicioná-las à mistura.",
+      "Acrescentar o fermento químico e misturar até obter uma massa homogênea.",
+      "Colocar a mistura em uma forma untada e cobri-la com bananas em fatias (opcional, pode aumentar carboidratos).",
+      "Pincelar com o líquido reservado e polvilhar com a canela.",
+      "Levar ao forno pré aquecido a temperatura de 180°C por 45 minutos."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "15g",
+      "fibras": "5g",
+      "proteinas": "6g",
+      "calorias": "135 kcal"
+    }
+  },
+  {
+    "titulo": "BOLO DE FUBÁ",
+    "ingredientes": [
+      "1 xícara de chá (110g) de Fubá",
+      "1 xícara de chá (100g) de Farinha de amêndoas",
+      "½ xícara de chá (45g) de Farelo de aveia",
+      "1 e ½ xícara de chá (28g) de Adoçante p/ forno e fogão",
+      "3 ½ xícaras de chá (500ml) de Leite desnatado",
+      "1 pote (200g) Iogurte natural desnatado (sem açúcar)",
+      "2 colheres de sopa de manteiga",
+      "5 unidades (300g) de Ovo",
+      "1 colher de sopa (10g) de Fermento",
+      "4 colheres de sopa (50g) de Farelo de trigo"
+    ],
+    "modo_preparo": [
+      "Bater as claras em neve e reservar.",
+      "Bater as gemas com a manteiga derretida.",
+      "Adicionar o fubá, o farelo de trigo, a farinha de amêndoas, o farelo de aveia, o adoçante, o leite, o iogurte e o fermento.",
+      "Juntar à essa mistura as claras.",
+      "Passar tudo para uma assadeira untada com manteiga e polvilhada com adoçante em pó.",
+      "Assar por vinte minutos."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "14g",
+      "fibras": "3g",
+      "proteinas": "7g",
+      "calorias": "155 kcal"
+    }
+  },
+  {
+    "titulo": "BISCOITO A BASE DE AMÊNDOAS",
+    "ingredientes": [
+      "150g de Farinha de amêndoas",
+      "100g de Farelo de aveia",
+      "5 colheres de sopa (100g) de Manteiga",
+      "2 Ovos",
+      "4 colheres de sopa (9g) de Adoçante p/ forno e fogão",
+      "1 colher de chá (2,75g) de Fermento em pó",
+      "Canela em pó (2 colheres de chá + 1 colher de sopa - 10g)"
+    ],
+    "modo_preparo": [
+      "Derreter a Manteiga e misturar com a farinha de amêndoas e o farelo de aveia. Deixar esfriar.",
+      "Acrescentar o adoçante, o ovo, as duas colheres de chá de canela e por último o fermento químico.",
+      "Misturar bem.",
+      "Moldar a massa em pequenos quadrados e assar em forno médio (200ºC).",
+      "Se desejar, passar na canela ainda morno."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "5g",
+      "fibras": "2g",
+      "proteinas": "4g",
+      "calorias": "110 kcal"
+    }
+  },
+  {
+    "titulo": "BISCOITO DE AVEIA E CANELA",
+    "ingredientes": [
+      "1/2 xícara de chá (84g) de Manteiga",
+      "24g Adoçante p/ forno e fogão",
+      "1 Gema",
+      "2 Claras",
+      "1 ¾ xícara de chá (270ml) de Leite desnatado",
+      "2 xícaras de chá (200g) de Farinha de aveia",
+      "1 colher de chá (4g) de Bicarbonato de sódio",
+      "5 colheres de chá (21g) Canela em pó",
+      "3 ¼ xícaras de chá (254g) de Aveia em flocos",
+      "1 xícara de chá (100g) de Castanha de caju torrada e moída"
+    ],
+    "modo_preparo": [
+      "Misturar todos os ingredientes secos (com exceção da aveia e da castanha).",
+      "Acrescentar 120ml de leite (3/4 xícara de chá), a manteiga, a gema, as claras e misturar.",
+      "Acrescentar a aveia, a canela e 150ml de leite (1 xícara de chá) e misturar.",
+      "Em uma assadeira untada, colocar a massa abrindo e deixando-a em espessura fina (0,5cm).",
+      "Em seguida, cortar a mesma em quadrados tomando o cuidado para deixar um pequeno espaço entre os mesmos (0,5cm).",
+      "Levar ao forno pré aquecido a 200ºC por 25 minutos."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "10g",
+      "fibras": "3g",
+      "proteinas": "4g",
+      "calorias": "125 kcal"
+    }
+  },
+  {
+    "titulo": "PUDIM DE QUINOA",
+    "ingredientes": [
+      "4 xícaras de chá (592g) de Leite desnatado",
+      "1 vidro (200ml) de Leite de coco diet",
+      "1 pacote (500g) de Quinoa em flocos",
+      "6 colheres de sopa cheias (25g) Adoçante p/ forno e fogão",
+      "½ colher de café de Sal",
+      "1 pacote (100g) de Coco ralado fresco sem açúcar"
+    ],
+    "modo_preparo": [
+      "Aquecer o leite desnatado e o leite de coco diet até o ponto de fervura juntamente com o adoçante e o sal.",
+      "Em uma travessa, colocar a quinoa em flocos com coco ralado e misturar (guardar um pouco para colocar em cima).",
+      "Acrescentar os leites, misturar bem, colocar o restante do coco ralado por cima e deixar repousar por no mínimo 1 hora ou até que a quinoa tenha absorvido todo o líquido."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "18g",
+      "fibras": "4g",
+      "proteinas": "6g",
+      "calorias": "150 kcal"
+    }
+  },
+  {
+    "titulo": "PÃO DE CENOURA",
+    "ingredientes": [
+      "3 xícaras de purê de cenoura",
+      "½ xícara de aveia (crua)",
+      "2 xícaras de farinha de trigo 100% integral",
+      "1 xícara de farelo de aveia",
+      "1 xícara de farinha de linhaça dourada",
+      "2 colheres (sopa) de sementes de chia",
+      "2 colheres (sopa) de óleo de coco",
+      "½ colher (chá) de sal"
+    ],
+    "modo_preparo": [
+      "Refogue três cenouras cortadas em uma colher (sopa) de óleo, cozinhe com 2 xícaras de água e sal até amolecer.",
+      "Amasse ou bata no liquidificador.",
+      "Adicione ao purê uma colher de sopa de óleo, sal, as farinhas, farelos e sementes.",
+      "Despeje em uma tigela polvilhada e amasse por pelo menos 5 minutos, ajustando a água se necessário.",
+      "Dê forma ao pão e coloque-o em um tabuleiro untado.",
+      "Faça riscos horizontais na superfície do pão e asse-o em forno médio."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "13g",
+      "fibras": "4g",
+      "proteinas": "4g",
+      "calorias": "95 kcal"
+    }
+  },
+  {
+    "titulo": "BOLO DE FUBÁ COM QUEIJO BRANCO",
+    "ingredientes": [
+      "1/2 xícara: Fubá (farinha fina de milho)",
+      "1 xícara: Farinha de amêndoas",
+      "1/2 xícara: Farelo de aveia",
+      "1/2 xícara: Azeite de oliva",
+      "1 colher de sopa: Fermento em pó",
+      "2 Ovos grandes",
+      "1 xícara: Leite desnatado",
+      "200 gramas: Queijo branco light",
+      "2 tomates maduros e limpos",
+      "1 Cebola cortada",
+      "1 colher de sopa: Cebolinha verde"
+    ],
+    "modo_preparo": [
+      "Preaqueça o forno a 210°C.",
+      "Higienize os tomates, a cebola e a cebolinha. Corte os tomates em fatias finas e retire as sementes, corte a cebola em laminas e pique a cebolinha. Reserve.",
+      "Misture o fubá, a farinha de amêndoas, o farelo de aveia e o fermento, peneire.",
+      "No liquidificador bata os ovos, o leite, o azeite e o queijo por 1 minuto, acrescente as farinhas aos poucos, desligue, despeje a mistura em uma vasilha e continue a bater com uma espátula.",
+      "Unte uma forma de bolo inglês com creme vegetal e polvilhe com fubá.",
+      "Despeje metade da massa, coloque as fatias de tomate, em seguida a cebola e a cebolinha.",
+      "Leve ao forno por 30 minutos, desligue o forno e deixe mais 5 minutos.",
+      "Após esfriar desenforme-o."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "11g",
+      "fibras": "3g",
+      "proteinas": "8g",
+      "calorias": "140 kcal"
+    }
+  },
+  {
+    "titulo": "BOLO DE BANANA COM AVEIA",
+    "ingredientes": [
+      "4 bananas (não excessivamente maduras)",
+      "3 ovos",
+      "1/3 xícara de óleo de coco",
+      "1 colher (chá) de canela",
+      "2 xícaras de aveia",
+      "1 colher (sopa) de sementes de chia",
+      "1 colher (sopa) cheia de fermento"
+    ],
+    "modo_preparo": [
+      "Pré-aqueça o forno em temperatura média (180ºC) e unte bem uma forma pequena de bolo com buraco no meio.",
+      "Bata no liquidificador todos os ingredientes, deixando a aveia com o fermento por último.",
+      "Ponha a massa na forma e leve ao forno por 20 minutos, ou até dourar.",
+      "Deixe esfriar um pouco antes de servir."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "18g",
+      "fibras": "4g",
+      "proteinas": "5g",
+      "calorias": "145 kcal"
+    }
+  },
+  {
+    "titulo": "PÃO CASEIRO",
+    "ingredientes": [
+      "500 ml de leite desnatado",
+      "2 ovos",
+      "30 g de fermento para pão",
+      "3 colheres (sopa) de manteiga",
+      "600 g de farinha de trigo 100% integral",
+      "200 g de farelo de aveia",
+      "200 g de farinha de linhaça",
+      "50g de mix de sementes (girassol, abóbora)",
+      "2 colheres (sopa) rasa de adoçante de forno e fogão",
+      "1 pitada de sal"
+    ],
+    "modo_preparo": [
+      "Dissolva o fermento no leite morno.",
+      "Bata bem os ovos e junte ao leite desnatado.",
+      "Coloque a manteiga, o adoçante e o sal.",
+      "Misture bem e aos poucos adicione as farinhas e as sementes até obter uma massa homogênea (ajuste a água se necessário).",
+      "Modele 4 pães.",
+      "Deixe crescer e leve ao fogo pré-aquecido por 30 minutos."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "15g",
+      "fibras": "4g",
+      "proteinas": "5g",
+      "calorias": "110 kcal"
+    }
+  },
+  {
+    "titulo": "BOLO SIMPLES INTEGRAL",
+    "ingredientes": [
+      "5 ovos",
+      "1 xícara de leite desnatado morno",
+      "1 xícara de iogurte natural desnatado",
+      "1 xícara de adoçante p/ forno e fogão",
+      "1 xícara de farinha de trigo 100% integral",
+      "1 xícara de farinha de coco",
+      "1 colher de fermento em pó"
+    ],
+    "modo_preparo": [
+      "Bata as claras em neve. Reserve.",
+      "No liquidificador, bata todos os ingredientes restantes (gemas, leite, iogurte, adoçante, farinhas), colocando primeiro os líquidos.",
+      "Coloque a mistura numa bacia e junte as claras em neve, misturando delicadamente.",
+      "Coloque para assar em forno preaquecido, a 210°C, por aproximadamente 35 a 40 minutos.",
+      "Desenforme e sirva."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "10g",
+      "fibras": "4g",
+      "proteinas": "6g",
+      "calorias": "115 kcal"
+    }
+  },
+  {
+    "titulo": "BOLO DE CENOURA",
+    "ingredientes": [
+      "3 ovos",
+      "1/3 xícara (chá) de óleo de coco",
+      "2 cenouras em rodelas",
+      "1 xícara (chá) de adoçante p/ forno e fogão",
+      "1 xícara (chá) de farinha de trigo 100% integral",
+      "1 xícara (chá) de farelo de aveia",
+      "1 colher (sopa) rasa de fermento em pó",
+      "Manteiga para untar"
+    ],
+    "modo_preparo": [
+      "Coloque no liquidificador os ovos, o óleo, as cenouras e o adoçante. Bata por alguns minutos.",
+      "Peneire as farinhas e o fermento e junte aos ingredientes batidos.",
+      "Misture bem com a ajuda de uma batedeira até formar bolhas.",
+      "Coloque em uma forma redonda (de cerca de 22cm de diâmetro com furo no centro) e untada com manteiga.",
+      "Leve para assar por 30 minutos no forno a 185°C.",
+      "Desenforme ainda morno.",
+      "Deixe esfriar para servir."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "14g",
+      "fibras": "3g",
+      "proteinas": "4g",
+      "calorias": "150 kcal"
+    }
+  },
+  {
+    "titulo": "BOLO DE IOGURTE SEM AÇÚCAR",
+    "ingredientes": [
+      "1 Iogurte natural diet (185g)",
+      "1 xícara (chá) de adoçante p/ forno e fogão",
+      "1 xícara (chá) de farinha de trigo 100% integral",
+      "1 xícara (chá) de farinha de amêndoas",
+      "½ xícara (chá) de óleo de coco",
+      "4 ovos",
+      "1 colher (café) de fermento químico em pó"
+    ],
+    "modo_preparo": [
+      "Bata as claras em neve e reserve.",
+      "Em seguida bata as gemas, o adoçante e o óleo até clarear.",
+      "Acrescente o iogurte, as farinhas e bata até a massa ficar bem lisa.",
+      "Depois coloque o fermento em pó, as claras em neve e misture bem, manualmente.",
+      "Coloque a massa em uma forma de pudim (18cm), untada e enfarinhada.",
+      "Em seguida leve ao forno pré-aquecido (180°C) por aproximadamente 40 minutos.",
+      "Desenforme quando o bolo estiver frio."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "11g",
+      "fibras": "4g",
+      "proteinas": "7g",
+      "calorias": "140 kcal"
+    }
+  },
+  {
+    "titulo": "PÃOZINHO RECHEADO",
+    "ingredientes": [
+      "1 Tablete (15g) de fermento biológico fresco",
+      "1 colher (sopa) de leite em pó desnatado",
+      "3 ovos",
+      "1 colher (sobremesa) de adoçante p/ forno e fogão",
+      "1 colher (sopa) de sal",
+      "1 copo de iogurte natural desnatado",
+      "½ xícara (chá) de óleo de coco",
+      "250 g de farinha de trigo 100% integral",
+      "250 g de farelo de aveia",
+      "100 g de aliche picado",
+      "1 xícara (chá) de salsinha picada",
+      "1 cebola picada",
+      "2 tomates sem sementes picados",
+      "Orégano a gosto",
+      "4 colheres (sopa) de azeite de oliva",
+      "1 gema para pincelar",
+      "1 colher (sopa) de Queijo Parmesão Diet ralado"
+    ],
+    "modo_preparo": [
+      "Bata no liquidificador o fermento, o leite em pó, os ovos, o adoçante, o sal, o iogurte e o óleo.",
+      "Em um recipiente despeje essa mistura e acrescente as farinhas aos poucos até ficar uma massa homogênea e espessa.",
+      "Em uma superfície enfarinhada trabalhe com essa massa até desgrudar dos dedos.",
+      "Para o recheio, misture todos os ingredientes do mesmo com azeite.",
+      "Em uma fôrma espessa de aproximadamente 1 cm espalhe a massa e no centro coloque o recheio e pincele com a gema.",
+      "Leve para assar em um forno pré-aquecido a 180° por aproximadamente 40 minutos."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "16g",
+      "fibras": "5g",
+      "proteinas": "9g",
+      "calorias": "180 kcal"
+    }
+  },
+  {
+    "titulo": "ESFIHA DE QUEIJO",
+    "ingredientes": [
+      "30g de fermento biológico",
+      "½ colher (sopa) adoçante p/ forno e fogão",
+      "2 xícaras (chá) água",
+      "½ copo americano de óleo de coco",
+      "½ colher (sobremesa) de sal",
+      "2 xícaras (chá) farinha de trigo 100% integral",
+      "2 xícaras (chá) de farelo de aveia",
+      "1 gema para pincelar",
+      "350g queijo minas frescal light",
+      "2 tomates",
+      "1 colher (sobremesa) orégano",
+      "Sal a gosto"
+    ],
+    "modo_preparo": [
+      "Massa: Misturar em uma vasilha o fermento com o adoçante, até dissolver bem. Adicionar o óleo, a água e o sal e misturar até ficar homogêneo. Colocar as farinhas aos poucos e amassar até desgrudar das mãos. Fazer bolinhas da massa e reservar.",
+      "Recheio: Amassar o queijo fresco com garfo e temperar com orégano, lavar os tomates, picar e adicionar ao queijo. Reservar.",
+      "Montagem: Abrir as bolinhas da massa em local polvilhado com farinha de trigo e colocar o recheio. Fechar em formato de triângulo. Pincelar com a gema misturada em 2 colheres (sopa) água. Colocar em uma assadeira untada com óleo e levar ao forno."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "18g",
+      "fibras": "5g",
+      "proteinas": "10g",
+      "calorias": "200 kcal"
+    }
+  },
+  {
+    "titulo": "BOLO DE MAÇÃ COM AVEIA E LINHAÇA",
+    "ingredientes": [
+      "3 unidades: Maçã vermelha",
+      "1 xícara: Farinha de trigo 100% integral",
+      "1 xícara: Farinha de aveia",
+      "1/4 xícara: Aveia em flocos finos",
+      "2 colheres de sopa: Linhaça sementes moídas",
+      "3 unidades: Ovos",
+      "3/4 xícara adoçante p/ forno e fogão",
+      "1 colher de sopa: Canela em pó",
+      "50 gramas: Castanha do Pará miolo",
+      "1 colher de sopa: Fermento em pó",
+      "2 colheres de sopa: manteiga sem sal"
+    ],
+    "modo_preparo": [
+      "Higienize as maçãs (tipo golden, fuji, gala), retire as sementes (deixe a casca), corte em pequenos cubos, pique a castanha do Pará e triture no liquidificador as sementes de linhaça caso não utilize a farinha. Reserve.",
+      "Preaqueça o forno a 200°C.",
+      "Derreta manteiga no fogão ou micro-ondas. Reserve.",
+      "Numa tigela coloque as maçãs em cubos junto com o adoçante, misture e vá acrescentando as farinhas, a aveia, a castanha do Pará, a linhaça, a canela em pó por último o fermento em pó e misture bem. Reserve.",
+      "Num recipiente com fouet ou espátula bata os ovos por 1 minuto, junte a manteiga, adicione as maçãs reservadas, misture bem.",
+      "Unte e polvilhe uma forma, coloque a massa.",
+      "Leve o bolo ao forno por 45 minutos ou faça o teste do palito."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "20g",
+      "fibras": "6g",
+      "proteinas": "7g",
+      "calorias": "190 kcal"
+    }
+  },
+  {
+    "titulo": "BOLO DE BANANA",
+    "ingredientes": [
+      "2 unidades (150g) de Banana nanica (menos madura)",
+      "2 colheres de sopa (4g) de adoçante p/ forno e fogão",
+      "1/2 xícara de chá (44g) de Farinha de trigo 100% integral",
+      "1/2 xícara de chá (45g) de Farelo de aveia",
+      "2 Ovos",
+      "1/3 xícara de chá (52ml) de Óleo de coco",
+      "1 colher de chá (3,9g) de Fermento",
+      "1 colher de chá (2,8g) de Bicarbonato de sódio"
+    ],
+    "modo_preparo": [
+      "Amassar as bananas em um prato adicionando o adoçante.",
+      "Levar ao micro-ondas por 1 minuto para concentrar o sabor.",
+      "Deixar esfriar e levar à geladeira por 30 minutos.",
+      "Bater pelo menos 1 das claras em neve e reservar.",
+      "Ao tirar as bananas da geladeira, colocá-las na batedeira, adicionar os ovos e bater bem em potência máxima.",
+      "Adicionar o óleo, as farinhas, o fermento e o bicarbonato, batendo devagar para não expulsá-lo da massa.",
+      "Após homogeneizar, bater em alta rotação por 2 minutos.",
+      "Adicionar a clara em neve com o auxílio de uma colher.",
+      "Despejar a massa em uma forma de pudim untada e polvilhada.",
+      "Levar ao forno médio por 30 a 40 minutos."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "17g",
+      "fibras": "4g",
+      "proteinas": "5g",
+      "calorias": "165 kcal"
+    }
+  },
+  {
+    "titulo": "ROCAMBOLE DE LARANJA",
+    "ingredientes": [
+      "5 claras em neve",
+      "5 gemas",
+      "4 colheres (sopa) adoçante p/ forno e fogão",
+      "3 colheres (sopa) farinha de trigo 100% integral",
+      "2 colheres (sopa) farinha de amêndoas",
+      "1 colher (chá) de canela em pó",
+      "Raspas de limão",
+      "Geleia diet para recheio",
+      "Suco de laranja para umedecer"
+    ],
+    "modo_preparo": [
+      "Bater as claras em neve, acrescentar todos os ingredientes com exceção do recheio e levar para assar em assadeira.",
+      "Depois de assado desenforme em um pano de prato e salpique mais ou menos uma colher de adoçante.",
+      "Umedeça a massa com suco de laranja fazendo furinhos na massa.",
+      "Recheie com parte da geleia.",
+      "Enrole com o auxílio do pano de prato e cubra o rocambole com geleia e canela e enfeite com gomos de laranja."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "12g",
+      "fibras": "2g",
+      "proteinas": "6g",
+      "calorias": "130 kcal"
+    }
+  },
+  {
+    "titulo": "SUFLÊ DE MILHO VERDE",
+    "ingredientes": [
+      "1 colher de sopa de manteiga",
+      "3 colheres de sopa de farelo de aveia",
+      "½ litro de leite desnatado",
+      "1 gema",
+      "3 colheres de sopa de queijo parmesão light ralado",
+      "1 lata de milho verde (sem açúcar adicionado)",
+      "1 cebola ralada",
+      "Sal e pimenta do reino a gosto",
+      "3 claras em neve",
+      "Manteiga para untar",
+      "Floco de aveia para polvilhar"
+    ],
+    "modo_preparo": [
+      "Aqueça a manteiga, doure o farelo de aveia e acrescente o leite aos poucos, mexendo sempre para não formar grumos.",
+      "Retire do fogo, junte a gema, o queijo ralado, o milho verde e a cebola.",
+      "Tempere com sal e pimenta.",
+      "Por último acrescente as claras em neve, mexendo vagarosamente.",
+      "Unte um refratário com manteiga, polvilhe o floco de aveia, e despeje o suflê.",
+      "Leve ao forno pré aquecido (180ºC) por 20 minutos ou até que fique dourado."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "15g",
+      "fibras": "3g",
+      "proteinas": "8g",
+      "calorias": "160 kcal"
+    }
+  },
+  {
+    "titulo": "BOLO DE AMENDOIM",
+    "ingredientes": [
+      "1 xícara (chá) de adoçante p/ forno e fogão",
+      "5 gemas",
+      "1 xícara (chá) de manteiga",
+      "1 colher (café) de sal",
+      "1 xícara (chá) de farinha de trigo 100% integral",
+      "1 xícara (chá) de farinha de amendoim",
+      "1 xícara (chá) de amendoins torrados e moídos",
+      "5 claras em neve",
+      "1 colher (sopa) de fermento químico em pó",
+      "½ xícara (chá) de leite desnatado",
+      "¼ xícara (chá) de suco de laranja",
+      "¼ xícara (chá) de adoçante p/ forno e fogão (para cobertura)",
+      "1 xícara (chá) de amendoins torrados e moídos (para cobertura)"
+    ],
+    "modo_preparo": [
+      "Massa: Na batedeira, bata as claras em neve e reserve. Em seguida bata o restante dos ingredientes (exceto às claras e o fermento em pó). Depois da massa homogeneizar, misture o fermento e as claras delicadamente com o auxílio de uma espátula. Despeje a massa em uma fôrma retangular média untada e enfarinhada e leve ao forno pré aquecido (180ºc) por aproximadamente 30 minutos.",
+      "Cobertura: Em uma tigela, misture todos os ingredientes até obter uma pasta. Espalhe sobre o bolo ainda quente."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "10g",
+      "fibras": "4g",
+      "proteinas": "9g",
+      "calorias": "220 kcal"
+    }
+  },
+  {
+    "titulo": "BOLO DE BANANA RECHEADO",
+    "ingredientes": [
+      "4 ovos",
+      "1 xícara de leite desnatado",
+      "½ xícara de óleo de coco",
+      "1 colher de (chá) de adoçante p/ forno e fogão",
+      "1 xícara de farinha de trigo 100% integral",
+      "1 xícara de farinha de aveia",
+      "1 colher de sopa de fermento em pó",
+      "4 bananas médias (menos maduras)",
+      "Adoçante e canela em pó à gosto"
+    ],
+    "modo_preparo": [
+      "Bater os 4 primeiros ingredientes no liquidificador e juntar as farinhas.",
+      "Tirar do copo a massa e misturar o fermento. RESERVAR.",
+      "Untar uma forma com manteiga e polvilhar com adoçante e canela.",
+      "Forrar a forma com as bananas cortadas ao meio.",
+      "Colocar a massa e levar ao forno por mais ou menos 20 minutos."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "19g",
+      "fibras": "5g",
+      "proteinas": "6g",
+      "calorias": "185 kcal"
+    }
+  },
+  {
+    "titulo": "BOLO DE COCO",
+    "ingredientes": [
+      "1/2 xíc. de manteiga",
+      "1 col. (sopa) de adoçante p/ forno e fogão",
+      "1 col. (chá) de essência de coco",
+      "6 ovos",
+      "1 xíc. (chá) de farinha de trigo 100% integral",
+      "1 xíc. (chá) de farinha de coco",
+      "50 g de coco ralado sem açúcar.",
+      "1 col. (sopa) de fermento em pó",
+      "½ pote de iogurte natural desnatado"
+    ],
+    "modo_preparo": [
+      "Bata a manteiga e o adoçante até ficar um creme fofo.",
+      "Acrescente os ovos um a um batendo bem.",
+      "Junte o iogurte, a essência, o coco ralado e misture.",
+      "Coloque as farinhas e o fermento mexendo bem, ponha em fôrma untada e leve para assar por aproximadamente 50 minutos."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "8g",
+      "fibras": "5g",
+      "proteinas": "7g",
+      "calorias": "170 kcal"
+    }
+  },
+  {
+    "titulo": "BOLO DE LARANJA",
+    "ingredientes": [
+      "1 xícara de (chá) de suco de laranja",
+      "2 colheres de (sopa) de manteiga",
+      "4 ovos",
+      "1 xícara de (chá) de farinha de trigo 100% integral",
+      "1/2 xícara de (chá) de farinha de amêndoas",
+      "1 colher de (sopa) de fermento em pó",
+      "Manteiga e farinha de amêndoas para untar e polvilhar a forma",
+      "15g de adoçante p/ forno e fogão"
+    ],
+    "modo_preparo": [
+      "Na batedeira, bata bem a manteiga com as gemas, metade do suco de laranja e os outros ingredientes.",
+      "Misture as claras batidas em neve e despeje numa fôrma untada e polvilhada.",
+      "Asse em forno pré-aquecido (180ºC).",
+      "Retire, e ainda quente, faça vários furos no bolo com um palito e regue com o restante do suco de laranja misturado ao adoçante."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "15g",
+      "fibras": "3g",
+      "proteinas": "6g",
+      "calorias": "160 kcal"
+    }
+  },
+  {
+    "titulo": "BOLO DE MARACUJÁ",
+    "ingredientes": [
+      "3 gemas",
+      "1 xícara (chá) polpa de maracujá com semente",
+      "5 colheres (sopa) manteiga",
+      "1 xícara (chá) farinha de trigo 100% integral",
+      "1 xícara (chá) farelo de aveia",
+      "3 claras em neve",
+      "1 colher (sopa) fermento em pó",
+      "1 xícara (chá) adoçante p/ forno e fogão",
+      "Polpa de 1 maracujá grande (com sementes)",
+      "3 colheres (sopa) água",
+      "1 colher (sopa) adoçante"
+    ],
+    "modo_preparo": [
+      "Bata as gemas com o adoçante e a manteiga.",
+      "Acrescente a polpa de maracujá (juntamente com as sementes) e misture bem.",
+      "Junte as farinhas e continue mexendo.",
+      "Adicione as claras batidas e, por último, o fermento, misturando levemente.",
+      "Coloque em forma untada e enfarinhada e leve ao forno brando até que fique dourado."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "16g",
+      "fibras": "4g",
+      "proteinas": "5g",
+      "calorias": "175 kcal"
+    }
+  },
+  {
+    "titulo": "MASSA PARA WRAP INTEGRAL",
+    "ingredientes": [
+      "1 xícara de farinha de trigo 100% integral",
+      "2 colheres sopa de óleo de coco ou azeite de oliva",
+      "5 colheres de sopa de água quente",
+      "1 colher de café rasa de sal"
+    ],
+    "modo_preparo": [
+      "Misture todos os ingredientes e amasse bem até formar uma bola homogênea, que não grude em suas mãos.",
+      "Não há necessidade de sovar, apenas que todos os ingredientes fiquem misturados.",
+      "Embrulhe em um plástico filme e deixe descansar por 40 min.",
+      "Separe porção da massa e abra com um rolo, deixe bem fino, corte do tamanho que preferir.",
+      "Esquente uma frigideira antiaderente e leve para assar até que fique levemente dourado, ou da forma que preferir.",
+      "Recheie a gosto. Sugestão: Use com patês, saladas, peito de peru, queijo branco, banana com canela!"
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "20g",
+      "fibras": "4g",
+      "proteinas": "5g",
+      "calorias": "150 kcal"
+    }
+  },
+  {
+    "titulo": "WRAP DE ISCAS DE CARNE",
+    "ingredientes": [
+      "3 Wraps integrais",
+      "1 Colher (sopa) de Azeite de Oliva",
+      "Sal e Pimenta-do-reino a gosto",
+      "200g de Alcatra em Iscas finas ou outra carne magra",
+      "150g de Queijo Cottage",
+      "100g de Champignon em Conserva"
+    ],
+    "modo_preparo": [
+      "Aqueça uma frigideira e coloque o azeite de oliva, refogue as iscas de carne até que fiquem cozidas e douradas.",
+      "Adicione o champignon e deixe refogar por mais 3 minutos.",
+      "Tempere com o sal e a pimenta do reino a gosto e misture com o queijo cottage.",
+      "Abra a massa de Wrap e espalhe a mistura sobre ele, enrole a massa como se fosse uma “panqueca”.",
+      "Faça o mesmo no restante das massas e sirva em seguida."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "22g",
+      "fibras": "4g",
+      "proteinas": "25g",
+      "calorias": "350 kcal"
+    }
+  },
+  {
+    "titulo": "WRAP DE CARNE COM ABOBRINHA",
+    "ingredientes": [
+      "2 wraps integrais",
+      "1 dente de alho picado",
+      "Pimenta a gosto",
+      "Salsinha a gosto",
+      "2 colheres de ricota light picada",
+      "1/2 abobrinha picada em cubinhos",
+      "200 gramas de carne moída magra",
+      "Sal a gosto",
+      "1 colher azeite de oliva"
+    ],
+    "modo_preparo": [
+      "Pique o alho e leve para dourar em frigideira com azeite.",
+      "Em seguida, adicione a carne moída para refogar.",
+      "Depois de 2 minutos adicione abobrinha e deixe refogar mais um pouco.",
+      "Tempere com sal e pimenta.",
+      "Após 5 minutos, adicione salsinha e ricota picada. Incorpore tudo e reserve.",
+      "Doure os wraps dos dois lados, recheie com o preparado, enrole e sirva cortado ao meio."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "21g",
+      "fibras": "5g",
+      "proteinas": "22g",
+      "calorias": "330 kcal"
+    }
+  },
+  {
+    "titulo": "WRAP DE FRANGO",
+    "ingredientes": [
+      "2 wraps integrais",
+      "300g de peito de frango cozido e desfiado",
+      "150g de cream cheese light",
+      "2 xícaras (chá) de rúcula picada",
+      "1 xícara (chá) de tomate seco",
+      "1 colheres (sopa) de azeite de oliva",
+      "Suco de ½ limão",
+      "Sal e pimenta-do-reino a gosto"
+    ],
+    "modo_preparo": [
+      "Comece temperando o frango com o sal e a pimenta-do-reino e refogue em uma frigideira aquecida com azeite de oliva por cerca de 5 minutos. Reserve.",
+      "Em um recipiente, misture o cream cheese com o suco de limão e tempere com sal e pimenta-do-reino a gosto.",
+      "Abra a massa de Wrap e espalhe a mistura de cream cheese sobre ele.",
+      "Adicione a rúcula, o tomate seco e o peito de frango desfiado e enrole a massa como se fosse uma “panqueca”.",
+      "Faça o mesmo no restante das massas e sirva em seguida."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "23g",
+      "fibras": "5g",
+      "proteinas": "28g",
+      "calorias": "380 kcal"
+    }
+  },
+  {
+    "titulo": "PANQUECA INTEGRAL NUTRITIVA",
+    "ingredientes": [
+      "200 ml de leite desnatado",
+      "1/2 xícara de chá (60g) de farinha de amêndoas",
+      "1/2 xícara de chá de farinha de quinoa (60g)",
+      "1 ovo"
+    ],
+    "modo_preparo": [
+      "Coloque tudo no pote do mixer e bata. Você também pode usar o liquidificador.",
+      "Bater até que vire uma massa homogênea, vai ser liquida mesmo.",
+      "Pré aqueça a frigideira antiaderente e unte-a com um pouquinho de óleo de coco ou manteiga e tire o excesso com papel toalha.",
+      "Espalhe a massa girando a frigideira até completá-la.",
+      "Em menos de 1 minuto ela já pode ser virada.",
+      "Com o auxílio de uma espátula, desgrude as bordas da massa e veja se ela já soltou.",
+      "Vire a panqueca para cozinhar do outro lado."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "10g",
+      "fibras": "4g",
+      "proteinas": "8g",
+      "calorias": "150 kcal"
+    }
+  },
+  {
+    "titulo": "TAPIOCA DE COUVE",
+    "ingredientes": [
+      "1 e ½ xícara de polvilho doce",
+      "2 folhas grandes de couve",
+      "½ xícara de água"
+    ],
+    "modo_preparo": [
+      "Em um liquidificador bata as folhas de couve com a água até triturar bem.",
+      "Coe o suco passando por uma peneira.",
+      "Dentro de um recipiente coloque o polvilho doce e aos poucos vá adicionando o suco de couve.",
+      "Adicione o suco e misture bem com as mãos até formar uma farofinha úmida. *Dica: Pode ser que não seja necessário todo o suco, ou que precise de mais.*",
+      "Depois é só passar por uma peneira direto para uma frigideira preaquecida.",
+      "Salpique sal e deixe firmar."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "30g",
+      "fibras": "2g",
+      "proteinas": "1g",
+      "calorias": "130 kcal"
+    }
+  },
+  {
+    "titulo": "PANQUECA DE COUVE",
+    "ingredientes": [
+      "1 ovo",
+      "1 xícara de farinha de aveia",
+      "1/2 maço de couve picado",
+      "Salsinha opcional",
+      "Alho a gosto",
+      "Sal a gosto",
+      "1 xícara de leite desnatado ou vegetal",
+      "1 colher (sopa) de óleo coco ou manteiga"
+    ],
+    "modo_preparo": [
+      "Coloque todos os ingredientes dentro de um liquidificador.",
+      "Bata por alguns minutos até que vire uma massa homogênea.",
+      "Preaqueça uma frigideira, unte se for necessário.",
+      "Despeje a massa, espalhe por todo o fundo da frigideira.",
+      "Doure dos dois lados.",
+      "Recheie, leve ao forno por uns 5 minutos. E já pode servir."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "15g",
+      "fibras": "4g",
+      "proteinas": "7g",
+      "calorias": "180 kcal"
+    }
+  },
+  {
+    "titulo": "PANQUECA DE AVEIA E BANANA",
+    "ingredientes": [
+      "2 bananas (menos maduras)",
+      "2 ovos",
+      "½ xícara de aveia em flocos",
+      "1 colher sopa de extrato de baunilha",
+      "1 colher sopa de canela (alternativas: 1 colher de chocolate em pó ou 2 colheres de manteiga de amendoim)"
+    ],
+    "modo_preparo": [
+      "Em uma travessa funda amasse as bananas.",
+      "Adicione os ovos inteiros e misture bem.",
+      "Adicione a baunilha, a aveia e a canela (ou o chocolate em pó ou a manteiga de amendoim).",
+      "Unte uma frigideira com um pouco de óleo de coco ou manteiga ghee e leve ao fogo ate aquecer.",
+      "Coloque uma colherada grande (ou uma concha) da massa na frigideira.",
+      "Cozinhe de 2 a 3 minutos. Quando a massa começar a soltar umas bolhinhas, vire e deixe mais 1 a 2 minutos.",
+      "Repita o processo de cozimento para as demais porções."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "25g",
+      "fibras": "5g",
+      "proteinas": "10g",
+      "calorias": "250 kcal"
+    }
+  },
+  {
+    "titulo": "PÃO DE AVEIA COM FARINHA DE AMÊNDOAS",
+    "ingredientes": [
+      "150g de farinha de amêndoas",
+      "180g de farelo de aveia",
+      "320ml de água morna",
+      "1 colher de fermento biológico seco",
+      "2 colheres de adoçante para forno e fogão",
+      "1 colher de óleo de coco",
+      "1 ½ colher de chá de sal"
+    ],
+    "modo_preparo": [
+      "Misture a farinha de amêndoas, a aveia, o fermento biológico, o sal, o azeite e o adoçante.",
+      "Misture tudo e então adicione 1 xícara (240ml) da água morna.",
+      "Deixe descansar por aproximadamente 10 minutos e então adicione o restante da água.",
+      "Transfira a massa para uma fôrma retangular de pão e deixe descansar por 15 minutos, ou até ele crescer.",
+      "Quando massa chegar no topo do fôrma, leve ao forno preaquecido a 180C.",
+      "Asse por 40 minutos."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "8g",
+      "fibras": "4g",
+      "proteinas": "6g",
+      "calorias": "140 kcal"
+    }
+  },
+  {
+    "titulo": "PÃO DE AVEIA DE FRIGIDEIRA",
+    "ingredientes": [
+      "60g de farelo de aveia",
+      "80ml de água filtrada",
+      "40g de farinha de amêndoas",
+      "1 colher de uvas passas (opcional, usar com moderação)",
+      "1 colher de chá canela em pó",
+      "½ colher de chá de fermento em pó",
+      "Sal a gosto"
+    ],
+    "modo_preparo": [
+      "Coloque todos os ingredientes secos em uma recipiente e misture para combiná-los.",
+      "Vá adicionando a água aos poucos, misturando bem e deixando a aveia absorver antes colocar mais.",
+      "Coloque a massa em uma frigideira antiaderente ainda fria, regada com um pouco de azeite ou manteiga ghee.",
+      "Leve ao fogo baixo e tampe a frigideira.",
+      "Deixe cozinhar por 3 minutos e vire para dourar o outro lado.",
+      "Cozinhe por mais 3 minutos com a frigideira tampada. O seu pão de frigideira estará pronto quando os dois lados estiverem dourados e levemente crocante."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "12g",
+      "fibras": "4g",
+      "proteinas": "5g",
+      "calorias": "130 kcal"
+    }
+  },
+  {
+    "titulo": "TORTINHAS INTEGRAIS DE LEGUMES",
+    "ingredientes": [
+      "1 abobrinha em cubos",
+      "1 cenoura em cubos",
+      "1 cebola picada",
+      "170g de creme de leite light",
+      "1 xícara (chá) de farinha de trigo 100% integral",
+      "1 xícara (chá) de farinha de grão de bico",
+      "1/3 xícaras (chá) de água fria",
+      "1/3 xícara (chá) de azeite de oliva",
+      "1/2 maço de brócolis picado",
+      "3 dentes de alho picados",
+      "3 colheres (sopa) de queijo muçarela light",
+      "Sal e pimenta do reino a gosto"
+    ],
+    "modo_preparo": [
+      "MASSA: Misture a água fria, as farinhas e o azeite de oliva até obter uma consistência de massa de empada. Abra a massa com a ajuda de um rolo, e coloque em forminhas individuais. Leve a massa para assar por cerca de 10 minutos em forno pré-aquecido a 200ºC.",
+      "RECHEIO: Em uma frigideira aquecida com um pouco de azeite de oliva, refogue a cebola e os alhos até que fiquem dourados. Acrescente os brócolis cozidos, a cenoura e a abobrinha e tempere com o sal e a pimenta do reino a gosto, refogue por mais 5 minutos. Adicione o creme de leite light, misture bem e recheie a massa pré-assada com esta mistura.",
+      "Polvilhe o queijo muçarela por cima e leve para o forno pré-aquecido até dourar."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "18g",
+      "fibras": "6g",
+      "proteinas": "10g",
+      "calorias": "250 kcal"
+    }
+  },
+  {
+    "titulo": "EMPADINHA DE PALMITO E QUIABO",
+    "ingredientes": [
+      "1.5 xícaras de chá de farinha de trigo 100% integral",
+      "1.5 xícaras de chá de farelo de aveia",
+      "½ xícara de chá de manteiga sem sal",
+      "1 ovo",
+      "1 xícara de café de leite desnatado",
+      "1 pitada de sal",
+      "1 gema para pincelar",
+      "1 xícara de chá de palmito picado",
+      "1 xícara de chá de quiabos sem semente picados",
+      "1 colher de sopa de azeite de oliva",
+      "½ cebola ralada",
+      "1 colher de sopa de salsinha picada",
+      "Sal a gosto"
+    ],
+    "modo_preparo": [
+      "Em uma vasilha grande adicione as farinhas, manteiga, ovos, sal e o leite e misture bem até incorporar e ficar uma massa homogênea.",
+      "Para o recheio aqueça o azeite em uma frigideira e refogue a cebola, depois adicione os outros ingredientes e salpique os temperos. Desligue o fogo e reserve.",
+      "Abra a massa nas formas individuais para empada forrando as laterais e o fundo.",
+      "Disponha o recheio e tampe com o restante da massa. Repita o processo até acabar a massa e recheio.",
+      "Pincele com a gema por cima e leve para assar em forno médio pré-aquecido até dourar.",
+      "Espere amornar, desenforme e sirva em seguida."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "15g",
+      "fibras": "5g",
+      "proteinas": "8g",
+      "calorias": "210 kcal"
+    }
+  },
+  {
+    "titulo": "PASTEL DE CARNE ASSADO",
+    "ingredientes": [
+      "2 xícaras de farinha 100% integral",
+      "1.5 xícaras de farinha de aveia",
+      "1 colher (sopa) rasa de fermento em pó",
+      "1/2 xícara de água morna",
+      "1/2 cebola média ralada",
+      "1 ovo batido para pincelar",
+      "2 ovos inteiros",
+      "3 colheres (sopa) de manteiga sem sal",
+      "1 pitada de sal",
+      "1/2 lata de milho batido no liquidificador com 1/2 xícara de água",
+      "1/2 lata de milho verde inteiro escorrido",
+      "2 tomates picados sem sementes",
+      "1/2 lata de ervilha escorrida",
+      "2 colheres de cheiro verde",
+      "1 colher (sopa) de azeite de oliva",
+      "1 dente de alho amassado",
+      "1/2 cebola média ralada",
+      "2 colheres de azeitonas picadas",
+      "300 g de carne magra moída",
+      "Sal a gosto"
+    ],
+    "modo_preparo": [
+      "MASSA: Em um recipiente, coloque as farinhas, o fermento, a manteiga, o sal, os ovos inteiros e misture. Aos poucos vá acrescentando a água morna até dar o ponto de massa firme macia que não grude nas mãos. Abra a massa com rolo, recorte como desejar, recheie, umedeça levemente as extremidades com água. Pressione para fechar, pincele com o ovo batido, leve a assar em forno preaquecido a 180º C por 30 minutos em assadeira untada ou forrada com papel manteiga.",
+      "RECHEIO: Em uma panela, adicione o azeite, o alho e a cebola para dourar. Adicione a carne moída, o sal e deixe cozinhar por 4 minutos. Em seguida, acrescente o milho inteiro e o milho batido no liquidificador, a ervilha e cozinhe por mais dois minutos. Por fim, acrescente os tomates e o cheiro verde, desligue o fogo e deixe esfriar."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "22g",
+      "fibras": "6g",
+      "proteinas": "15g",
+      "calorias": "300 kcal"
+    }
+  },
+  {
+    "titulo": "OMELETE COM RÚCULA E TOMATE SECO",
+    "ingredientes": [
+      "5 ovos",
+      "6 colheres (sopa) de leite desnatado",
+      "1/2 xícara de rúcula",
+      "1/3 xícara de queijo cottage",
+      "1/2 colher (chá) de pimenta do reino",
+      "Sal a gosto"
+    ],
+    "modo_preparo": [
+      "Bata os ovos com o leite e o sal até ficar bem leve.",
+      "Esquente um pouco de óleo em uma frigideira e despeje o ovo batido.",
+      "Doure o omelete de um lado e depois vire.",
+      "Coloque a rúcula e o queijo no meio, e tempere com sal e pimenta.",
+      "Deixe o queijo derreter."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "3g",
+      "fibras": "1g",
+      "proteinas": "15g",
+      "calorias": "200 kcal"
+    }
+  },
+  {
+    "titulo": "OMELETE DE FRANGO",
+    "ingredientes": [
+      "150 g de peito de frango",
+      "2 ovos",
+      "1/2 cebola picada",
+      "1/2 tomate picado",
+      "1/2 colher de manteiga sem sal",
+      "Orégano, pimenta do reino e sal a gosto"
+    ],
+    "modo_preparo": [
+      "Tempere os filés de frango como preferir e grelhe em uma frigideira. Após grelhar, desfie o frango.",
+      "Acrescente o tomate picado, a cebola picada e sal a gosto. Misture tudo e reserve este recheio.",
+      "Bata com um garfo os ovos com sal, pimenta e orégano a gosto.",
+      "Coloque os ovos batidos na frigideira quente, por cima o recheio de frango.",
+      "Espere o ovo firmar e enrole no formato de omelete."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "4g",
+      "fibras": "1g",
+      "proteinas": "20g",
+      "calorias": "250 kcal"
+    }
+  },
+  {
+    "titulo": "MIX DE CHIPS DE LEGUMES",
+    "ingredientes": [
+      "OPÇÕES DE LEGUMES: batata doce, rabanete, cenoura, abobrinha, inhame, berinjela, beterraba, abóbora",
+      "TODOS DEVEM UTILIZAR: Azeite de Oliva a gosto, Sal e pimenta do reino a gosto",
+      "OPÇÕES DE TEMPEROS: curry, açafrão, páprica, alho em pó, orégano e outros de sua preferência"
+    ],
+    "modo_preparo": [
+      "Deixe o forno pré aquecido a 180ºC.",
+      "Descasque os legumes e corte-os em fatias finas e uniformes com cerca de 1mm por fatia.",
+      "Coloque os legumes em um recipiente e tempere com o azeite de oliva (o suficiente para passar uma fina camada nos legumes), sal e a pimenta-do-reino a gosto.",
+      "Leve ao forno e asse-os por 20 minutos.",
+      "Depois deste tempo, vire as fatias e deixe terminar de assar por mais 20 minutos ou até que fiquem crocantes."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "15g",
+      "fibras": "4g",
+      "proteinas": "2g",
+      "calorias": "120 kcal"
+    }
+  },
+  {
+    "titulo": "VITAMINA PRA ACORDAR",
+    "ingredientes": [
+      "1/2 xícara de espinafre",
+      "1/2 xícara de framboesas congeladas",
+      "2 colheres de sopa de linhaça moída",
+      "1 colher de chá de canela em pó",
+      "1/2 xícara de iogurte natural desnatado",
+      "1/2 xícara de leite de amêndoas sem açúcar"
+    ],
+    "modo_preparo": [
+      "Adicione o espinafre lavado no liquidificador com os outros ingredientes.",
+      "Bata bem até obter uma mistura homogênea.",
+      "Caso queira substituir a framboesa por outra fruta também fica uma delicia."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "12g",
+      "fibras": "6g",
+      "proteinas": "8g",
+      "calorias": "150 kcal"
+    }
+  },
+  {
+    "titulo": "TORTA DELÍCIA",
+    "ingredientes": [
+      "1 xícara de chá (100g) de Farinha de trigo 100% integral",
+      "1 xícara de chá (100g) de Farinha de amêndoas",
+      "2 (30g) Gemas",
+      "1 colher de sopa rasa (8g) de Fermento químico em pó",
+      "1 colher de sopa (4g) de Adoçante p/ forno e fogão",
+      "4 colheres de sopa cheia (100g) Manteiga",
+      "2 copos de requeijão (500ml) de Leite desnatado",
+      "3 colheres de sopa (30g) de Amido de milho (substituir por goma xantana ou farinha de coco para espessar)",
+      "½ colher de sopa (10g) Gema",
+      "2 colheres de sopa (8g) de Adoçante p/ forno e fogão",
+      "2 gotas de Baunilha",
+      "Maçãs fatiadas para cobrir",
+      "Gelatina de abacaxi diet"
+    ],
+    "modo_preparo": [
+      "Massa: Em um recipiente, misturar as farinhas, as gemas, o fermento, o adoçante e a manteiga até formar uma massa homogênea.",
+      "Abrir a massa obtida com um rolo e depois colocar em uma forma.",
+      "Furar toda a massa para que o ar saia durante a cocção.",
+      "Levar ao forno e deixar até dourar (aproximadamente 30 minutos).",
+      "Creme: Colocar em uma panela, o leite desnatado, o espessante (goma xantana), a gema e adoçante. Levar ao fogo e mexer até adquirir consistência. Deixar repousar.",
+      "Após isso, colocar sobre a massa. Cobrir a torta com fatias de maçã e por cima com gelatina de abacaxi diet (preparar conforme embalagem, deixar esfriar e gelar até começar a criar consistência).",
+      "Levar tudo à geladeira."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "18g",
+      "fibras": "4g",
+      "proteinas": "7g",
+      "calorias": "220 kcal"
+    }
+  },
+  {
+    "titulo": "BISCOITO DE AVEIA E NOZES",
+    "ingredientes": [
+      "1 xícara de chá de farinha de aveia",
+      "½ xícara de chá de farinha 100% trigo integral",
+      "1 colher de chá de farinha de linhaça",
+      "3 colheres de sopa de nozes picadas",
+      "1 colher de café de essência de baunilha",
+      "½ colher de chá de fermento em pó",
+      "1 xícara de chá de aveia em flocos",
+      "½ xícara de chá de adoçante para forno e fogão",
+      "½ de xícara de chá de manteiga sem sal",
+      "1 ovo",
+      "Manteiga ghee para untar a forma"
+    ],
+    "modo_preparo": [
+      "Em uma vasilha misture os ingredientes até virar uma massa homogênea.",
+      "Para moldar os biscoitos use uma colher e coloque-os numa forma untada.",
+      "Assar em forno médio, preaquecido, por cerca de 20 minutos ou até dourar."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "12g",
+      "fibras": "3g",
+      "proteinas": "4g",
+      "calorias": "140 kcal"
+    }
+  },
+  {
+    "titulo": "BISCOITO DE GENGIBRE",
+    "ingredientes": [
+      "40 gramas de adoçante stevia",
+      "65 gramas de farinha de trigo 100% integral",
+      "60 gramas de farinha de amêndoas",
+      "1 ovo",
+      "½ colher de chá de gengibre em pó",
+      "50 gramas de manteiga sem sal amolecida",
+      "½ colher de chá de canela em pó"
+    ],
+    "modo_preparo": [
+      "Em uma tigela, misture a manteiga amolecida com o adoçante, até obter uma mistura suave.",
+      "Adicione o ovo e misture bem.",
+      "Aos poucos, adicione as farinhas com a canela e o gengibre.",
+      "Misture até obter uma massa homogênea e compacta, depois enrole em plástico filme e leve à geladeira por 30 minutos.",
+      "Estenda a massa com espessura de 1 cm e recorte os biscoitos de gengibre usando um cortador.",
+      "Coloque os biscoitos em um tapete de silicone, ou tabuleiro de forno forrado com papel manteiga.",
+      "Leve a assar no forno preaquecido a 180ºC por 12 minutos."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "7g",
+      "fibras": "2g",
+      "proteinas": "3g",
+      "calorias": "90 kcal"
+    }
+  },
+  {
+    "titulo": "BISCOITO DE COCO",
+    "ingredientes": [
+      "1 gema",
+      "4 colheres de (sopa) de coco ralado sem açúcar",
+      "1/2 xícara de amido de milho",
+      "1.5 xícara de farinha de amêndoas",
+      "2 colheres de (sopa) de leite de coco caseiro",
+      "3 colheres de (sopa) de adoçante xylitol",
+      "2 colheres de (sopa) de manteiga"
+    ],
+    "modo_preparo": [
+      "Misture os ingredientes um a um, com as mãos, até obter uma massa que não grude na mão. Se for preciso, adicione mais farinha de amêndoas.",
+      "Abra a massa sobre uma superfície limpa e lisa. Com um cortador, um copo ou uma faca, corte como preferir.",
+      "Coloque os biscoitinhos em uma forma untada, pincele com uma gema.",
+      "Leve para assar em forno preaquecido, por 20 minutos ou até firmarem e ficarem douradinhos."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "5g",
+      "fibras": "3g",
+      "proteinas": "4g",
+      "calorias": "110 kcal"
+    }
+  },
+  {
+    "titulo": "CREPE COM GELEIA DE MORANGO",
+    "ingredientes": [
+      "1 xícara de chá (70g) de Farinha de aveia",
+      "1 xícara de chá (70ml) de Farinha de trigo integral",
+      "½ colher de café de Sal",
+      "2 Ovos (120g)",
+      "1½ xícara de chá (250ml) de Leite desnatado",
+      "3 unidades (390g) de Maçãs verdes",
+      "2 unidades (260g) de Maçãs vermelhas",
+      "30 unidades (450g) de Morango",
+      "35g de Suco de limão",
+      "1 colher de café de Agar-agar",
+      "2 colheres de sopa (20g) de Adoçante Stevia",
+      "1 colher de sopa (5g) de Água"
+    ],
+    "modo_preparo": [
+      "Massa: Misturar todos os ingredientes da massa no liquidificador. Untar uma frigideira com uma colher de chá de óleo. Despejar uma concha pequena da massa na frigideira quente. Moldar em forma de círculo e virar a massa quando já estiver corada.",
+      "Geleia Diet: Colocar as maçãs numa panela e acrescentar o suco de limão e a água. Cozinhar lentamente até começar a ferver. Tampar a panela e cozinhar por mais 15 minutos, mexer de vez em quando para a maçã ficar macia. Adicionar os morangos e misturar bem. Tampar a panela e cozinhar em fogo baixo durante 30 minutos mexendo de vez em quando até a fruta ficar cozida. Juntar o agar-ágar até se dissolver completamente. Desligar o fogo e colocar o adoçante."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "25g",
+      "fibras": "5g",
+      "proteinas": "8g",
+      "calorias": "200 kcal"
+    }
+  },
+  {
+    "titulo": "DELICIA DE MANGA COM CHIA",
+    "ingredientes": [
+      "3 mangas picadas",
+      "Suco de 1 limão",
+      "2 xíc. (chá) água filtrada",
+      "½ xíc. (chá) adoçante de sua preferência",
+      "2 claras em neve",
+      "1 colher de sopa rasa de chia",
+      "Folhas de hortelã para finalizar"
+    ],
+    "modo_preparo": [
+      "No liquidificador, bata os pedaços de manga com o suco de limão e a água.",
+      "Junte o suco concentrado, a chia, o adoçante e as claras em neve mexendo delicadamente, de baixo para cima.",
+      "Distribua a preparação em forminhas de gelo e leve ao congelador por 2 horas.",
+      "Retire e bata na batedeira até obter uma mistura cremosa.",
+      "Divida em 5 taças e leve novamente ao congelador ou freezer.",
+      "Sirva decorando com folhas de hortelã."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "20g",
+      "fibras": "4g",
+      "proteinas": "3g",
+      "calorias": "110 kcal"
+    }
+  },
+  {
+    "titulo": "ARROZ DOCE - INTEGRAL",
+    "ingredientes": [
+      "2 xícaras de chá (308g) de Arroz integral",
+      "1 pitada de Sal",
+      "5 xícaras de chá (750ml) de leite desnatado quente",
+      "Água suficiente para cobrir o arroz (pelo menos 3 xícaras de chá)",
+      "2 colheres de sopa (50g) de manteiga",
+      "4 colheres de sopa (17,5g) de adoçante p/ forno e fogão",
+      "Canela em pó a gosto",
+      "2 unidades de Cravo"
+    ],
+    "modo_preparo": [
+      "Lavar bem o arroz.",
+      "Levar ao fogo com sal e água suficiente para cobri-lo.",
+      "Deixar cozinhar sem mexer.",
+      "Quando estiver quase cozido, acrescentar o leite e o adoçante.",
+      "Deixar cozinhando e mexer com cuidado para não esmigalhar os grãos até aparecer o fundo da panela."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "35g",
+      "fibras": "4g",
+      "proteinas": "7g",
+      "calorias": "250 kcal"
+    }
+  },
+  {
+    "titulo": "CANJICA",
+    "ingredientes": [
+      "500g de milho para canjica",
+      "1 ½ litro de Água",
+      "2 xícaras de chá (250ml) de Leite desnatado",
+      "½ vidro (80g) de Leite de coco light",
+      "½ xícara de chá (46g) de adoçante p/ forno e fogão",
+      "2 unidades de Canela em pau",
+      "2 unidades de Cravo",
+      "1 lata (164g) de leite condensado diet"
+    ],
+    "modo_preparo": [
+      "Leite Condensado Diet: Coloque no liquidificador: 1 xícara de chá (250ml) de Água fervente, 2 colheres de sopa (12,9g) de Manteiga, 5 xícaras de chá (11g) de Adoçante de sua escolha, 2 xícaras de chá (140g) de Leite em pó desnatado. Bater por 5 minutos, deixar esfriar e utilizar.",
+      "Canjica: Deixe o milho de molho. Cozinhe na pressão até os grãos ficarem macios.",
+      "Bater o leite, o leite de coco e o adoçante no liquidificador.",
+      "Quando os grãos estiverem macios, juntar a batida de leite e o leite condensado diet e deixar ferver.",
+      "Acrescentar essência de baunilha se desejar."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "40g",
+      "fibras": "5g",
+      "proteinas": "8g",
+      "calorias": "280 kcal"
+    }
+  },
+  {
+    "titulo": "CHURROS ASSADOS",
+    "ingredientes": [
+      "1 xícara de chá (50g) de Farinha de trigo 100% integral",
+      "1 xícara de chá (50g) de Farinha de amêndoas",
+      "1 colher de sopa (15g) de Manteiga",
+      "1 Ovo (60g)",
+      "1 xícara de chá (200ml) de Água",
+      "1 colher de sopa (2,5g) de adoçante p/ forno e fogão",
+      "1 pitada de Sal",
+      "4 colheres de sopa rasas (30g) xilitol",
+      "1 colher de chá (3g) de Canela em pó",
+      "1 receita de Leite condensado dietético para rechear"
+    ],
+    "modo_preparo": [
+      "Leite Condensado Dietético: 1 copo requeijão cheio (120g) de Leite em pó desnatado, ½ copo de requeijão (150ml) de Água, 1 colher de sopa rasa (20g) de Adoçante p/ forno e fogão, 1 colher de sopa cheia (28g) de Manteiga sem sal. Bater tudo por 5 minutos e reservar.",
+      "Massa: Colocar a água, a Manteiga, o adoçante e o sal em uma panela e deixar ferver.",
+      "Quando levantar fervura, jogar as farinhas de uma vez e bater com batedor ou com uma colher de pau.",
+      "Deixar a massa esfriar.",
+      "Quando estiver fria, acrescentar o ovo até obter uma massa.",
+      "Colocar no saco de confeiteiro com bico “pitanga” grande e modelar os churros em uma assadeira antiaderente.",
+      "Assar em forno pré-aquecido até dourar.",
+      "Passar na mistura de canela e xilitol.",
+      "Perfurar com um palito de churrasco e colocar o leite condensado dietético com uma bisnaga."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "15g",
+      "fibras": "3g",
+      "proteinas": "5g",
+      "calorias": "180 kcal"
+    }
+  },
+  {
+    "titulo": "MAÇÃ DO AMOR",
+    "ingredientes": [
+      "2 unidades de Maçã (340g) ou 10 unidades de uva (100g)",
+      "½ copo de requeijão (150ml) de Água",
+      "1 xícara de chá (150g) de xilitol",
+      "Corante alimentício vermelho (opcional)",
+      "2 palitos (para maçãs) ou 10 palitos (para uvas)"
+    ],
+    "modo_preparo": [
+      "Lavar e secar bem as frutas.",
+      "Colocar em uma panela a água, o xilitol e o corante.",
+      "Levar ao fogo baixo e quando ferver, contar 15 minutos.",
+      "Para verificar o ponto da calda, mexer com uma colher de pau e levantar: a calda deve cair formando um fio grosso. Retirar do fogo.",
+      "Espetar um palito em cada base das frutas.",
+      "Mergulhar na calda, levantar e girar para que toda a superfície fique coberta. Fazer isso três vezes.",
+      "Se a calda endurecer, esquentar um pouco até derreter novamente.",
+      "Colocar cada fruta numa bandeja forrada com papel manteiga untado com manteiga.",
+      "Esperar esfriar e servir a seguir."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "15g",
+      "fibras": "2g",
+      "proteinas": "1g",
+      "calorias": "70 kcal"
+    }
+  },
+  {
+    "titulo": "COOKIE",
+    "ingredientes": [
+      "1 xícara de chá (110g) de Farinha de trigo 100% integral",
+      "½ xícara de chá (50g) de farinha de aveia",
+      "½ colher de chá (2g) de Bicarbonato de sódio",
+      "4 colheres de sopa niveladas (80g) de Manteiga",
+      "4 colheres de chá (15g) de Adoçante Stévia",
+      "2 Claras",
+      "2 tabletes (60g) de Chocolate diet pelo menos 70% cacau",
+      "1 colher de chá (5 ml) de Essência de baunilha"
+    ],
+    "modo_preparo": [
+      "Fazer uma coroa com as farinhas e, no centro, coloque o bicarbonato de sódio.",
+      "Abrir o centro da coroa e colocar a manteiga, o adoçante e a essência de baunilha.",
+      "Misturar todos os ingredientes do centro até obter uma pasta cremosa.",
+      "Em seguida, adicionar as claras.",
+      "Antes de integrar todos os ingredientes por completo, adicionar o chocolate picado e amassar bem.",
+      "Fazer cilindros, colocá-los na assadeira e deixar descansar na geladeira por 30 minutos.",
+      "Cortar fatias e colocá-las na assadeira, deixando um espaço entre elas.",
+      "Abrir ligeiramente as fatias e assar em forno pré aquecido por cerca de 15 minutos.",
+      "Deixar esfriar e retirar os cookies."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "10g",
+      "fibras": "3g",
+      "proteinas": "4g",
+      "calorias": "130 kcal"
+    }
+  },
+  {
+    "titulo": "COALHADA FRESCA",
+    "ingredientes": [
+      "1 litro de leite de vaca magro (desnatado)",
+      "2 colheres (sopa) de iogurte natural desnatado (como coalho)"
+    ],
+    "modo_preparo": [
+      "Coloque o leite numa panela. Leve ao fogo até ferver.",
+      "Retire do fogo e deixe amornar até atingir a temperatura de, aproximadamente 45º C.",
+      "À parte, dilua o iogurte em um pouco do próprio leite morno e junte ao restante.",
+      "Mexa bem, airando com uma concha (mergulhe a concha, levante e verta o leite para fazer espuma). Repetir algumas vezes.",
+      "Coloque em um ou mais recipientes (de preferência de cerâmica ou louça).",
+      "Tampe e envolva com um pano grosso, para manter o calor.",
+      "Deixe repousar por 2 horas (verão) ou 3 horas (inverno), sem mexer.",
+      "Após coalhar, leve à geladeira por, no mínimo, 2 horas antes de consumir."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "5g",
+      "fibras": "0g",
+      "proteinas": "4g",
+      "calorias": "50 kcal"
+    }
+  },
+  {
+    "titulo": "BEIJINHO",
+    "ingredientes": [
+      "¾ xícara de (chá) de coco ralado sem açúcar",
+      "1 e ½ xícara de (chá) de leite em pó desnatado",
+      "½ xícara de (chá) de água",
+      "2 colheres de (sopa) de manteiga",
+      "½ xícara de (chá) de leite desnatado",
+      "1 colher (sopa) de goma xantana ou psyllium para engrossar",
+      "1 xícara de (chá) de adoçante p/ forno e fogão",
+      "Cravos da índia para decorar"
+    ],
+    "modo_preparo": [
+      "Coloque todos os ingredientes (exceto o espessante) em uma panela e leve ao fogo.",
+      "Mexa sempre por 15 minutos ou até que a mistura comece a engrossar. Adicione o espessante e mexa até desgrudar do fundo da panela.",
+      "Transfira a massa para um prato, deixe esfriar e faça bolinhas com as mãos.",
+      "Decore com cravos da índia e coloque em forminhas de papel."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "4g",
+      "fibras": "1g",
+      "proteinas": "3g",
+      "calorias": "60 kcal"
+    }
+  },
+  {
+    "titulo": "CHANTILLY DIET",
+    "ingredientes": [
+      "1 colher de (sopa) de gelatina em pó sem sabor",
+      "12 colheres de (sopa) de água fria",
+      "18 colheres de (sopa) de água fervente",
+      "18 colheres de (sopa) de leite em pó desnatado",
+      "5 colheres de (sopa) de suco de limão",
+      "3 colheres de (sopa) de adoçante de sua preferência"
+    ],
+    "modo_preparo": [
+      "Amoleça a gelatina em água fria e junte a água fervente.",
+      "Junte o leite em pó, o suco de limão e o adoçante, misture bem.",
+      "Leve ao freezer por 15 minutos.",
+      "Retire e bata na batedeira até que adquira a consistência cremosa. Sirva sobre frutas, pudins, pavês e mousses."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "3g",
+      "fibras": "0g",
+      "proteinas": "2g",
+      "calorias": "30 kcal"
+    }
+  },
+  {
+    "titulo": "PAVÊ DE MORANGO",
+    "ingredientes": [
+      "2 caixas de gelatina diet sabor morango",
+      "2 copos de água",
+      "12 morangos",
+      "2 sachês de gelatina sem sabor",
+      "1,5 xícaras de leite desnatado",
+      "8 colheres de sopa de leite em pó desnatado",
+      "Adoçante de sua preferência a gosto",
+      "2,5 fatias de ricota light"
+    ],
+    "modo_preparo": [
+      "Dissolva a gelatina diet de morango (2 embalagens) em 1 copo de água quente e reserve.",
+      "Em uma forma, coloque os morangos limpos e sem cabinhos e por cima a gelatina. Leve à geladeira para endurecer.",
+      "À parte, dissolva a gelatina sem sabor em 1 copo de água fria. Leve ao fogo sem deixar ferver até dissolver.",
+      "Deixe esfriar e coloque no liquidificador juntamente com o leite desnatado, o leite em pó, a ricota e o adoçante. Bata até ficar homogêneo.",
+      "Coloque essa massa por cima da gelatina já endurecida e leve para gelar por 4 horas.",
+      "Sirva gelado."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "8g",
+      "fibras": "1g",
+      "proteinas": "10g",
+      "calorias": "100 kcal"
+    }
+  },
+  {
+    "titulo": "PUDIM DE LEITE GELADO",
+    "ingredientes": [
+      "1 lata de creme de leite light",
+      "1 lata de leite condensado dietético",
+      "1 lata de leite desnatado",
+      "1 ½ envelope de gelatina em pó sem sabor e incolor"
+    ],
+    "modo_preparo": [
+      "Dissolva a gelatina conforme as instruções da embalagem.",
+      "Bata no liquidificador o creme de leite, o leite condensado, o leite desnatado e a gelatina dissolvida.",
+      "Coloque em taças e leve para gelar por 4 hours."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "15g",
+      "fibras": "0g",
+      "proteinas": "8g",
+      "calorias": "150 kcal"
+    }
+  },
+  {
+    "titulo": "MOUSSE DE GOIABA",
+    "ingredientes": [
+      "1 kg de goiabas vermelhas",
+      "1/3 de xícara de água",
+      "1 colher (sopa) de gelatina em pó sem sabor branca",
+      "1 colher (chá) de casca de limão ralada",
+      "2 claras",
+      "Adoçante a gosto (adicionar se necessário)"
+    ],
+    "modo_preparo": [
+      "Descasque as goiabas e retire as sementes.",
+      "Misture as sementes com 1 xícara de água e peneire.",
+      "Bata no processador as goiabas e o suco obtido das sementes peneiradas.",
+      "Polvilhe a gelatina sobre 1/3 de xícara de água para hidratar e dissolva em banho-maria ou no micro-ondas.",
+      "Adicione a gelatina dissolvida, o adoçante e a casca de limão à polpa reservada, misture bem e reserve.",
+      "Bata as claras até obter picos moles.",
+      "Apoie a tigela da polpa sobre uma bacia com água e gelo, mexendo sem parar até conseguir uma consistência de clara crua.",
+      "Junte as claras batidas ao creme e misture delicadamente.",
+      "Coloque em uma taça grande ou em 8 taças individuais, cubra com filme plástico e leve a geladeira por 1 hora ou até ficar cremoso."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "18g",
+      "fibras": "5g",
+      "proteinas": "4g",
+      "calorias": "100 kcal"
+    }
+  },
+  {
+    "titulo": "MOUSSE DE COCO",
+    "ingredientes": [
+      "1 pacote: Gelatina incolor",
+      "1 colher de sopa: Farinha de coco (para espessar)",
+      "1 xícara: Leite desnatado",
+      "200 gramas: Leite de coco light",
+      "4 unidades: Clara de ovo",
+      "2 colheres de sopa: Adoçante p/ forno e fogão",
+      "2 colheres de sopa: Coco ralado fresco sem açúcar",
+      "6 colheres de sopa: Água quente"
+    ],
+    "modo_preparo": [
+      "Bata as claras em neve com uma pitada de sal, reserve.",
+      "Coloque a gelatina num recipiente junto com 6 colheres de sopa de água para hidratar. Reserve.",
+      "Numa panela misture o adoçante, a farinha de coco, o leite, o leite de coco e leve ao fogo, continue a mexer até engrossar.",
+      "Tire do fogo e adicione a gelatina.",
+      "Incorpore delicadamente as claras em neve com um batedor manual (fouet).",
+      "Coloque numa forma e leve à geladeira por 3 horas.",
+      "Desenforme e decore a mousse de coco com coco ralado. Sirva gelada."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "6g",
+      "fibras": "2g",
+      "proteinas": "7g",
+      "calorias": "120 kcal"
+    }
+  },
+  {
+    "titulo": "LEITE CONDENSADO DIET",
+    "ingredientes": [
+      "1 copo (200 ml) de leite em pó, desnatado",
+      "150 ml (3/4 copo de 200 ml) de água fervente",
+      "1 colher (sopa) rasa de adoçante p/ forno e fogão",
+      "1 colher (chá) de manteiga"
+    ],
+    "modo_preparo": [
+      "Ferva a água.",
+      "Acrescente todos os ingredientes no liquidificador e bata aproximadamente 5 minutos.",
+      "Retire o creme do liquidificador e coloque num recipiente com tampa.",
+      "Coloque o recipiente na geladeira e deixe por no mínimo 12 horas."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "8g",
+      "fibras": "0g",
+      "proteinas": "5g",
+      "calorias": "80 kcal"
+    }
+  },
+  {
+    "titulo": "RABANADA ASSADA",
+    "ingredientes": [
+      "3 unidades de pão integral amanhecido",
+      "300 ml de leite desnatado",
+      "2 colheres (de sopa) de adoçante p/ forno e fogão",
+      "3 claras",
+      "2 gemas",
+      "1 colher (de sopa) de manteiga sem sal",
+      "¼ xícara (de chá) (40 g) de xilitol",
+      "½ colher (de sobremesa) de canela em pó"
+    ],
+    "modo_preparo": [
+      "Molhe as fatias de pão no leite, misturando com 1 colher (de sopa) de adoçante. Deixe descansar por 20 minutos.",
+      "Bata as claras, acrescente as gemas uma a uma, depois adicione 1 colher (de sopa) de adoçante.",
+      "Passe o pão molhado na mistura de ovos e asse em uma forma untada com manteiga em forno alto 250°C até dourar.",
+      "Ainda quente, passe as rabanadas em uma mistura de xilitol e canela."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "20g",
+      "fibras": "3g",
+      "proteinas": "8g",
+      "calorias": "190 kcal"
+    }
+  },
+  {
+    "titulo": "CURAU DE MILHO",
+    "ingredientes": [
+      "6 unidades (431g) de Espigas de milho",
+      "3 ½ xícaras de chá (500ml) de Leite desnatado",
+      "2 colheres de sopa cheias (11,5g) de adoçante p/ forno e fogão",
+      "1 colher de sobremesa de manteiga",
+      "3 colheres de sopa (46,76g) de Aveia em flocos finos",
+      "1 colher de sobremesa (4 g) de Canela em pó"
+    ],
+    "modo_preparo": [
+      "Debulhar o milho, bater o milho com o leite e peneirar.",
+      "Acrescentar os demais ingredientes (manteiga, adoçante, aveia) e levar ao fogo médio, mexer até que fique um creme grosso.",
+      "Servir com canela em pó."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "25g",
+      "fibras": "4g",
+      "proteinas": "6g",
+      "calorias": "180 kcal"
+    }
+  },
+  {
+    "titulo": "MOUSSE DE FRUTA",
+    "ingredientes": [
+      "1 lata de leite condensado dietético",
+      "1 lata de creme de leite light",
+      "1 xícara (chá) de suco concentrado de sua preferência (maracujá, pêssego, manga, laranja) - sem açúcar",
+      "1 envelope de gelatina em pó sem sabor e incolor."
+    ],
+    "modo_preparo": [
+      "Bater no liquidificador o leite condensado, o creme de leite e acrescentar aos poucos, o suco concentrado.",
+      "Juntar a gelatina dissolvida conforme as instruções da embalagem e bater bem.",
+      "Colocar em taças e levar a geladeira por aproximadamente 3 horas.",
+      "Enfeitar com a própria fruta."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "18g",
+      "fibras": "1g",
+      "proteinas": "7g",
+      "calorias": "160 kcal"
+    }
+  },
+  {
+    "titulo": "FLAN DE IOGURTE",
+    "ingredientes": [
+      "1 envelope de gelatina em pó sem sabor e incolor",
+      "1 lata de leite condensado dietético",
+      "1 lata de creme de leite light",
+      "2 copos de iogurte natural desnatado."
+    ],
+    "modo_preparo": [
+      "Dissolva a gelatina em 5 colheres (sopa) de água e leve ao fogo em banho-maria.",
+      "Bata no liquidificador, a gelatina, o leite condensado, o creme de leite e o iogurte.",
+      "Colocar em taças e levar a geladeira por 4 horas.",
+      "A cobertura pode ser a que desejar, como opção pode-se colocar 1 colher de sopa de geleia light ou goiabada light derretida em banho-maria."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "16g",
+      "fibras": "0g",
+      "proteinas": "9g",
+      "calorias": "170 kcal"
+    }
+  },
+  {
+    "titulo": "MOUSSE DE LIMÃO",
+    "ingredientes": [
+      "1 lata de leite condensado dietético",
+      "1 lata de creme de leite light",
+      "250 ml de suco de limão",
+      "1 colher (café) de essência de baunilha",
+      "1 envelope de gelatina em pó sem sabor e incolor",
+      "Adoçante p/ forno e fogão a gosto",
+      "Raspas da casca de limão."
+    ],
+    "modo_preparo": [
+      "Dissolver a gelatina conforme as instruções da embalagem.",
+      "Bater no liquidificador o creme de leite, o leite condensado, o suco de limão, a essência de baunilha, as raspas de limão e o adoçante, se for necessário.",
+      "Acrescentar a gelatina e bater por mais 2 minutos ou até o creme ficar bem homogêneo.",
+      "Distribuir em taças e enfeitar com raspas de limão."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "17g",
+      "fibras": "1g",
+      "proteinas": "7g",
+      "calorias": "165 kcal"
+    }
+  },
+  {
+    "titulo": "TORTA DE RICOTA (CHEESECAKE)",
+    "ingredientes": [
+      "300g de ricota light",
+      "1 lata de leite condensado dietético",
+      "1 lata de creme de leite light",
+      "4 gemas",
+      "4 claras em neve"
+    ],
+    "modo_preparo": [
+      "Bater no liquidificador, o queijo, o leite condensado, o creme de leite e as gemas.",
+      "Misturar delicadamente, às claras em neve com o creme, sem bater.",
+      "Untar a fôrma com manteiga e polvilhar com adoçante.",
+      "Levar ao forno para assar.",
+      "Cobrir com cobertura de sua preferência (sugestão: geleia light, achocolatado light ou polpa de maracujá)."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "14g",
+      "fibras": "0g",
+      "proteinas": "12g",
+      "calorias": "210 kcal"
+    }
+  },
+  {
+    "titulo": "TORTA MOUSSE DE MARACUJÁ",
+    "ingredientes": [
+      "90g de Farinha de trigo 100% integral",
+      "90g de Farinha de amêndoas",
+      "5 colheres de sobremesa (75g) de Manteiga sem sal",
+      "1 unidade (15g) Gema",
+      "¼ de xícara de chá (50ml) de Água",
+      "1 colher de sopa rasa (1g) de xilitol",
+      "1 colher de café (1,24g) de Sal",
+      "1 ½ xícara de chá (350ml) de Suco de maracujá sem açúcar",
+      "1 lata sem soro (236g) Creme de leite light",
+      "½ pacote (6g) Gelatina em pó incolor e sem sabor",
+      "1 receita de Leite condensado dietético"
+    ],
+    "modo_preparo": [
+      "Preparar a massa misturando as farinhas, o sal e o edulcorante com a manteiga até formar uma farofa.",
+      "Acrescentar a gema e depois colocar aos poucos a água.",
+      "Forrar a assadeira com a massa e assar em forno médio (200ºC) até dourar.",
+      "Bater os ingredientes da mousse rapidamente no liquidificador.",
+      "Rechear a massa pronta e levar à geladeira por 3 horas.",
+      "Enfeitar com semente de maracujá."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "18g",
+      "fibras": "3g",
+      "proteinas": "8g",
+      "calorias": "240 kcal"
+    }
+  },
+  {
+    "titulo": "BARRINHAS DE BANANA COM CHOCOLATE DIET",
+    "ingredientes": [
+      "1/2 xícara (chá) de aveia em flocos finos",
+      "1/2 xícara (chá) de farelo de trigo",
+      "1/2 xícara (chá) de farinha de trigo 100% integral",
+      "1/2 xícara (chá) de adoçante p/ forno e fogão",
+      "1/2 xícara (chá) de suco de laranja concentrado",
+      "2 colheres (sopa) de manteiga",
+      "2 claras",
+      "3 bananas nanicas (menos maduras)",
+      "2 colheres (chá) de fermento em pó",
+      "200 g de chocolate amargo (mín. 70%) dietético"
+    ],
+    "modo_preparo": [
+      "Bata os ingredientes (exceto a cobertura) em uma batedeira e coloque a mistura em uma assadeira retangular (26 cm x 20 cm), untada com manteiga e polvilhada com farinha de trigo.",
+      "Asse em forno médio (180 ºC), pré aquecido, por cerca de 30 minutos, ou até ficar firme.",
+      "Ao retirar do forno, coloque o chocolate cortado em pequenos pedaços sobre o bolo, alisando e espalhando até que derreta e cubra toda a superfície do bolo.",
+      "Deixe esfriar e corte em 12 barrinhas retangulares."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "15g",
+      "fibras": "4g",
+      "proteinas": "5g",
+      "calorias": "160 kcal"
+    }
+  },
+  {
+    "titulo": "BEIJINHO DE COCO",
+    "ingredientes": [
+      "1 xícara de leite em pó desnatado",
+      "½ litro de leite desnatado",
+      "Adoçante a gosto",
+      "1 gema",
+      "8 colheres (sopa) de coco ralado seco sem açúcar",
+      "Cravo para decorar"
+    ],
+    "modo_preparo": [
+      "Desmanche a gema em um pouco do leite e reserve.",
+      "Dissolva o leite em pó no restante do leite, adicione o adoçante e a gema previamente desmanchada.",
+      "Leve ao fogo até engrossar e deixe esfriar.",
+      "Enquanto isso, coloque o coco ralado em um prato.",
+      "Quando o creme estiver completamente frio, amasse-o como se fosse massa de pão.",
+      "Molhe as mãos com água e enrole os beijinhos.",
+      "Passe-os no coco ralado e enfeite cada um com um cravo."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "5g",
+      "fibras": "2g",
+      "proteinas": "4g",
+      "calorias": "70 kcal"
+    }
+  },
+  {
+    "titulo": "NUTELLA CASEIRA / CREME DE AVELÃ",
+    "ingredientes": [
+      "2 xícaras de avelãs torradas sem pele",
+      "¼ xícara de leite de amêndoas sem açúcar",
+      "¼ xícara de cacau em pó 100%",
+      "2 colheres de sopa de essência de baunilha",
+      "1½ colheres de sopa de stévia ou outro adoçante natural",
+      "1 colher de café de sal"
+    ],
+    "modo_preparo": [
+      "Colocar todas as avelãs num processador de alimentos e bater até que virem um purê.",
+      "Acrescentar os restantes ingredientes e voltar a bater, até que todos fiquem perfeitamente incorporados.",
+      "Dependendo da consistência, poderá ser necessário acrescentar mais leite de amêndoas.",
+      "Armazene em um pote com tampa."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "4g",
+      "fibras": "2g",
+      "proteinas": "3g",
+      "calorias": "90 kcal"
+    }
+  },
+  {
+    "titulo": "CHOCOLATE FAKE",
+    "ingredientes": [
+      "2 colheres de cacau em pó (100% e sem açúcar)",
+      "1 colher de leite em pó desnatado",
+      "Adoçante líquido a gosto",
+      "1 colher de Rum (opcional)"
+    ],
+    "modo_preparo": [
+      "Misture todos os ingredientes com um pouco de água morna até ficar cremoso, com textura parecida com chocolate derretido.",
+      "Misture forte com um garfo, para que não sobre nenhuma bolota de leite ou cacau em pó.",
+      "A textura ficará de acordo com a quantidade de água que você colocar."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "3g",
+      "fibras": "1g",
+      "proteinas": "2g",
+      "calorias": "40 kcal"
+    }
+  },
+  {
+    "titulo": "BARRINHA DE CEREAL: AVEIA E BANANA",
+    "ingredientes": [
+      "2 xíc. chá de aveia em flocos",
+      "2 claras",
+      "2 bananas passas (secas) picadinhas (pode ser uva passa também, com moderação)",
+      "1 banana (menos madura) amassada",
+      "Adoçante a gosto"
+    ],
+    "modo_preparo": [
+      "Coloque todos os ingredientes em um recipiente e misture.",
+      "Unte uma forma e coloque a massa delicadamente sobre ela, espalhando com uma colher.",
+      "Corte as barrinhas antes de levar ao forno.",
+      "Coloque para assar em forno pré aquecido (180 – 200 graus) por cerca de 15 a 20 minutos.",
+      "Retire as barrinhas da forma somente quando estiverem frias."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "18g",
+      "fibras": "4g",
+      "proteinas": "6g",
+      "calorias": "140 kcal"
+    }
+  },
+  {
+    "titulo": "BARRINHAS DE CHOCOLATE COM COCO",
+    "ingredientes": [
+      "1 Xícara (chá) de coco ralado sem açúcar",
+      "½ Xícara (chá) de adoçante forno e fogão",
+      "80ml de Leite de Coco Light",
+      "300g de chocolate 80% Cacau",
+      "80ml de Óleo de coco"
+    ],
+    "modo_preparo": [
+      "Em uma tigela misture o coco ralado, o adoçante e o leite de coco, até formar uma massa homogênea.",
+      "Modele a massa em formato de barrinhas.",
+      "Derreta o chocolate com o óleo de coco e banhe as barrinhas.",
+      "Leve à geladeira para endurecer."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "7g",
+      "fibras": "3g",
+      "proteinas": "3g",
+      "calorias": "150 kcal"
+    }
+  },
+  {
+    "titulo": "CUPCAKE DE BANANA E CREME DE AMENDOIM",
+    "ingredientes": [
+      "2 bananas maduras amassadas",
+      "1 ovo",
+      "1 clara",
+      "1 colher sopa adoçante xylitol",
+      "1 colher sopa de creme de amendoim sem açúcar",
+      "1 colher sopa de farinha de amêndoas",
+      "1/2 colher de café de goma guar",
+      "1 colher de café de canela em pó",
+      "Essência de baunilha",
+      "2 colher café de fermento em pó",
+      "1 colher sobremesa de Nibs de cacau"
+    ],
+    "modo_preparo": [
+      "Em um recipiente amasse as bananas e acrescente o ovo, a clara, o adoçante e o creme de amendoim.",
+      "Misture até ficar tudo homogêneo e vá acrescentando a farinha, canela, essência de baunilha, nibs de cacau e, por último, o fermento.",
+      "Coloque em forminhas de cupcake untadas com manteiga/ghee e asse em forno pré aquecido médio (200º) por 20 minutos."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "12g",
+      "fibras": "3g",
+      "proteinas": "6g",
+      "calorias": "140 kcal"
+    }
+  },
+  {
+    "titulo": "PUDIM TENTAÇÃO",
+    "ingredientes": [
+      "1 xícara de chá de leite em pó desnatado",
+      "2 xícaras de chá de leite desnatado",
+      "4 ovos",
+      "1 colher de sobremesa de manteiga sem sal",
+      "1 colher de chá de essência de baunilha",
+      "½ xícara de chá de água fervente",
+      "½ xícara de chá de adoçante culinário em pó",
+      "1/2 xícara de chá de adoçante de sua escolha (para calda)",
+      "3 colheres de sopa de água (para calda)"
+    ],
+    "modo_preparo": [
+      "Calda: Coloque o adoçante da calda em uma forma de pudim e leve ao fogo baixo para caramelizar. Quando estiver derretendo, acrescente a água, misture bem e deixe ferver até adquirir consistência de caramelo. Reserve.",
+      "Pudim: Bata no liquidificador o leite em pó, água, manteiga e adoçante por 5 minutos.",
+      "Acrescente os outros ingredientes e bata novamente.",
+      "Despeje sobre a forma caramelizada e leve para assar em forno médio em banho maria por uma hora e meia.",
+      "Leve a geladeira para esfriar e firmar."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "10g",
+      "fibras": "0g",
+      "proteinas": "9g",
+      "calorias": "130 kcal"
+    }
+  },
+  {
+    "titulo": "FRANGO COZIDO",
+    "ingredientes": [
+      "1 frango com cerca de 1,750g (sem pele)",
+      "1 xícara (chá) de aipo picado",
+      "1 xícara (chá) de cebola picada",
+      "¾ de xícara (chá) de cenoura picada",
+      "1 dente de alho",
+      "1 folha de louro",
+      "½ colher (chá) de tomilho seco",
+      "Sal a gosto",
+      "12 grãos de pimenta do reino",
+      "3 ramos de salsinha"
+    ],
+    "modo_preparo": [
+      "Coloque o frango numa panela, com o peito virado para baixo.",
+      "Junte os demais ingredientes.",
+      "Ponha água até o frango ficar quase totalmente coberto.",
+      "Tampe e leve ao fogo alto. Quando ferver, diminua para fogo baixo e deixe cozinhar por 45 minutos.",
+      "Apague o fogo e deixe-o na panela até o momento de usar.",
+      "Coe o caldo e use-o como consomê ou em outra receita."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "5g",
+      "fibras": "1g",
+      "proteinas": "35g",
+      "calorias": "250 kcal"
+    }
+  },
+  {
+    "titulo": "HAMBURGÃO",
+    "ingredientes": [
+      "500 g de carne moída magra (patinho)",
+      "1 cebola grande ralada",
+      "2 dentes de alho amassados",
+      "2 colheres (sopa) de cheiro verde picado",
+      "1 colher de sopa de farelo de aveia (para dar liga)",
+      "Sal e pimenta do reino a gosto",
+      "500 g de tomate maduro",
+      "2 cebolas médias",
+      "5 dentes de alho",
+      "2 folhas de louro",
+      "1 colher (sopa) de manjericão picado"
+    ],
+    "modo_preparo": [
+      "Molho de Tomate: Corte o tomate em pedaços e coloque em uma panela com a cebola, o alho e o louro. Cozinhe em fogo brando por 20 minutos. Retire o louro, bata no liquidificador e passe por uma peneira. Leve novamente ao fogo, tempere com sal, pimenta e manjericão, e cozinhe por mais 15-20 minutos.",
+      "Hambúrguer: Tempere a carne com a cebola, o alho, o cheiro verde, o farelo de aveia, o sal e a pimenta.",
+      "Divida a carne em 5 partes e forme hambúrgueres grandes.",
+      "Coloque-os em um pirex untado, cubra com papel alumínio e asse a 180ºC por 10 minutos.",
+      "Retire o papel alumínio e deixe no forno por mais 5 a 10 minutos para dourar.",
+      "Cubra com o molho de tomate, polvilhe com orégano e leve ao forno por mais 5 minutos."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "8g",
+      "fibras": "2g",
+      "proteinas": "25g",
+      "calorias": "280 kcal"
+    }
+  },
+  {
+    "titulo": "NHOQUE INTEGRAL DE BATATA DOCE",
+    "ingredientes": [
+      "2 xícaras de batata doce amassada",
+      "1 ovo",
+      "2 colheres de sopa de farelo de aveia",
+      "Azeite extra virgem (um fio, para não grudar)",
+      "Sal e pimenta-do-reino a gosto"
+    ],
+    "modo_preparo": [
+      "Cozinhe a batata doce embrulhada em papel alumínio, até ficar bem macia. Retire a polpa.",
+      "Misture a batata doce, o ovo, o farelo, sal e a pimenta do reino até formar uma massa homogênea. Se for preciso, acrescente mais farelo aos poucos.",
+      "Faça rolinhos com a massa numa superfície untada e corte os nhoques.",
+      "Em uma panela com água fervente, cozinhe os nhoques até que eles subam à superfície.",
+      "Retire com uma escumadeira e jogue em uma tigela com água gelada.",
+      "Aqueça uma frigideira antiaderente com um fio de óleo e grelhe os nhoques até ficarem dourados.",
+      "Sirva com um molho de sua preferência."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "25g",
+      "fibras": "4g",
+      "proteinas": "5g",
+      "calorias": "180 kcal"
+    }
+  },
+  {
+    "titulo": "PERU RECHEADO COM LEGUMES",
+    "ingredientes": [
+      "1 peru temperado (sem excesso de sódio)",
+      "2 colheres (sopa) de manteiga",
+      "3 pimentões (verde, amarelo e vermelho)",
+      "1 cebola",
+      "300 g de abobrinha em cubinhos",
+      "200 g de cenoura em cubinhos",
+      "200 g de peito de peru defumado picadinho"
+    ],
+    "modo_preparo": [
+      "Recheio: Corte os pimentões, abobrinha e cenoura em pequenos pedaços. Acrescente a cebola picadinha e o peito de peru; misture bem e utilize.",
+      "Numa assadeira grande, coloque o peru e pincele o interior com metade da manteiga.",
+      "Coloque o recheio na cavidade do peru.",
+      "Unte-o com a manteiga restante e cubra com papel alumínio.",
+      "Leve ao forno pré-aquecido a 200°C e asse por cerca de 3h30.",
+      "Retire o papel e, regando de vez em quando com o molho que se formou na assadeira, deixe por mais 30 minutos.",
+      "Retire do forno e sirva."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "10g",
+      "fibras": "3g",
+      "proteinas": "40g",
+      "calorias": "350 kcal"
+    }
+  },
+  {
+    "titulo": "LOMBO COM PIMENTÃO",
+    "ingredientes": [
+      "2 pimentões vermelhos e 2 amarelos",
+      "1 kg de cebola",
+      "2 dentes grandes de alho",
+      "3 colheres (sopa) de azeite de oliva",
+      "1 colher (chá) de alecrim seco",
+      "Pimenta do reino a gosto",
+      "4 colheres (sopa) mais 2 colheres (chá) de vinagre de maçã",
+      "4 bifes de lombo de porco"
+    ],
+    "modo_preparo": [
+      "Corte os pimentões e a cebola em rodelas finas. Amasse o alho.",
+      "Em uma frigideira grande, aqueça o óleo e junte o pimentão, a cebola, o alho e o alecrim.",
+      "Abaixe o fogo e cozinhe por cerca de 15 minutos ou até o pimentão estar tenro. Tempere com pimenta.",
+      "Acrescente as 4 colheres (sopa) de vinagre, tampe e cozinhe por mais 15 minutos.",
+      "Enquanto isso, aqueça bem uma grelha, coloque os bifes e deixe por cerca de 7 minutos de cada lado.",
+      "Regue cada bife com ½ colher (chá) de vinagre e sirva com o molho de pimentão."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "12g",
+      "fibras": "3g",
+      "proteinas": "30g",
+      "calorias": "320 kcal"
+    }
+  },
+  {
+    "titulo": "ALMÔNDEGAS",
+    "ingredientes": [
+      "400g de carne magra moída",
+      "100g de carne de porco magra moída",
+      "1/2 xícara (chá) de quinoa cozida",
+      "1 cebola picada finamente",
+      "1/4 xícara (chá) de farelo de aveia",
+      "1 clara de ovo",
+      "½ colher (chá) de páprica",
+      "Sal e pimenta a gosto",
+      "1 lata de tomates pelados sem açúcar",
+      "3 colheres (sopa) de catchup sem açúcar",
+      "Algumas gotas de molho inglês",
+      "Azeite de oliva para untar"
+    ],
+    "modo_preparo": [
+      "Em um recipiente, coloque as carnes, a cebola, a quinoa e o farelo de aveia. Amasse bem.",
+      "Acrescente a clara e tempere com sal e pimenta. Modele as almôndegas.",
+      "Disponha-as em um refratário untado.",
+      "Molho: Misture os tomates com o catchup, o molho inglês e tempere com sal e pimenta.",
+      "Regue as almôndegas com o molho e asse em forno pré-aquecido (180ºC) por 40 minutos."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "10g",
+      "fibras": "3g",
+      "proteinas": "28g",
+      "calorias": "300 kcal"
+    }
+  },
+  {
+    "titulo": "PEITO DE FRANGO COM MAÇÃ",
+    "ingredientes": [
+      "4 peitos de frango sem pele",
+      "3 mandioquinhas em rodelas de 1 cm",
+      "1 cebola média em rodelas",
+      "½ xícara (chá) de caldo de galinha caseiro (baixo sódio)",
+      "1 colher (chá) de mostarda em pó",
+      "½ colher (chá) de sal",
+      "¼ de colher (chá) de noz moscada",
+      "1/8 de colher (chá) de pimenta do reino",
+      "1 maçã em fatias",
+      "2 colheres (sopa) de salsinha picada"
+    ],
+    "modo_preparo": [
+      "Em uma frigideira untada, frite os peitos de frango de ambos os lados até dourarem.",
+      "Disponha sobre eles a mandioquinha e a cebola.",
+      "À parte, misture o caldo, a mostarda, o sal, a noz-moscada e a pimenta e despeje na frigideira.",
+      "Deixe ferver, reduza o fogo, tampe e cozinhe até os peitos de frango ficarem macios.",
+      "Destampe a frigideira e disponha a maçã por cima. Tampe e cozinhe por mais 3 minutos.",
+      "Retire do fogo, polvilhe com a salsinha e sirva."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "20g",
+      "fibras": "4g",
+      "proteinas": "35g",
+      "calorias": "380 kcal"
+    }
+  },
+  {
+    "titulo": "MACARRÃO INTEGRAL COM LEGUMES",
+    "ingredientes": [
+      "500g de macarrão espiral integral",
+      "1 abobrinha média picada",
+      "2 tomates picados",
+      "1 colher (sopa) de manjericão",
+      "1 cenoura média picada",
+      "1 cebola média picada",
+      "1 colher (sopa) de cebolinha picada",
+      "Orégano a gosto",
+      "Sal e pimenta-do-reino a gosto"
+    ],
+    "modo_preparo": [
+      "Em uma panela com água, sal e azeite, cozinhe o macarrão conforme a embalagem. Escorra e reserve.",
+      "Em outra panela, coloque um pouco de água e junte a cebola, a abobrinha, a cenoura, os tomates e as ervas e deixe cozinhar.",
+      "Adicione a cebolinha e tempere com sal e pimenta-do-reino.",
+      "Acomode a massa em uma travessa e acrescente o molho por cima.",
+      "Polvilhe com orégano e sirva."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "45g",
+      "fibras": "8g",
+      "proteinas": "12g",
+      "calorias": "350 kcal"
+    }
+  },
+  {
+    "titulo": "NHOQUE DE BATATA-DOCE E ESPINAFRE",
+    "ingredientes": [
+      "5 Batatas-doces pequenas",
+      "2 colheres de sopa de manteiga",
+      "2 e ½ xícaras de chá de Ricota light",
+      "2 colheres de sopa de Farinha de Aveia",
+      "2 colheres de sopa de Fibra de trigo",
+      "1 Ovo",
+      "3 xícaras de chá de Folhas de Espinafre",
+      "1 colher de sopa de Azeite de oliva",
+      "2 colheres de chá de Sal",
+      "½ colher de chá de Pimenta do reino",
+      "½ colher de chá de Noz moscada"
+    ],
+    "modo_preparo": [
+      "Descasque e cozinhe as batatas-doces em água fervente por 15 minutos. Passe no espremedor e reserve.",
+      "Amasse a ricota com um garfo. Reserve.",
+      "Lave as folhas de espinafre e bata no liquidificador com a manteiga, o ovo e o azeite.",
+      "Em uma tigela, junte a mistura triturada, a farinha de aveia, a fibra de trigo, as batatas e a ricota. Amasse bem.",
+      "Acrescente o sal, a pimenta do reino e a noz moscada.",
+      "Enrole a massa e corte em pedaços.",
+      "Cozinhe em água fervente em fogo baixo até subirem."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "28g",
+      "fibras": "6g",
+      "proteinas": "15g",
+      "calorias": "300 kcal"
+    }
+  },
+  {
+    "titulo": "ROSBIFE COM TEMPEROS VERDES",
+    "ingredientes": [
+      "1 kg de filé mignon ou contrafilé magro",
+      "1 dente de alho amassado",
+      "2 cebolas em rodelas",
+      "2 pimentões verdes em cubinhos",
+      "1 colher (sopa) de salsinha picada",
+      "1 colher (sopa) de manjericão picado",
+      "1 colher (sopa) de hortelã picada",
+      "3 colheres (sopa) de vinho branco seco",
+      "Sal e pimenta do reino a gosto",
+      "2 colheres (sopa) de manteiga",
+      "3 galhos de brócolis"
+    ],
+    "modo_preparo": [
+      "Tempere o filé com o alho, a cebola, os pimentões, os temperos verdes, o vinho, o sal e a pimenta. Deixe marinar por 1 hora.",
+      "Retire o filé do tempero e amarre com um barbante.",
+      "Derreta a manteiga e doure o filé por todos os lados.",
+      "Acrescente, aos poucos, a vinha d’alhos. Cozinhe por cerca de 30 minutos.",
+      "Retire do fogo, elimine o barbante e corte em fatias finas.",
+      "Regue com o molho da panela e decore com brócolis cozido."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "7g",
+      "fibras": "2g",
+      "proteinas": "45g",
+      "calorias": "400 kcal"
+    }
+  },
+  {
+    "titulo": "BACALHAU AO FORNO",
+    "ingredientes": [
+      "450g de bacalhau dessalgado",
+      "1 pimentão vermelho em rodelas",
+      "½ xícara (chá) de azeite de oliva",
+      "2 colheres (sopa) de salsinha",
+      "3 cebolas em rodelas",
+      "3 tomates sem pele cortado em fatias",
+      "Azeitonas a gosto",
+      "Sal e pimenta-do-reino a gosto"
+    ],
+    "modo_preparo": [
+      "Corte as cebolas, os tomates e o pimentão em rodelas.",
+      "Leve o bacalhau a uma panela, cubra com água e deixe ferver, sem amolecer muito.",
+      "Em um refratário, coloque uma camada de cebolas, uma de pimentão, uma de bacalhau e uma de tomates.",
+      "Acrescente azeitonas e polvilhe com a salsinha.",
+      "Tempere com sal e pimenta-do-reino.",
+      "Regue com o azeite e leve ao forno pré-aquecido por cerca de 30 minutos."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "8g",
+      "fibras": "2g",
+      "proteinas": "30g",
+      "calorias": "380 kcal"
+    }
+  },
+  {
+    "titulo": "ASSADO DE PANELA",
+    "ingredientes": [
+      "1 lagarto",
+      "Sal e pimenta do reino a gosto",
+      "3 dentes de alho amassados",
+      "½ xícara (chá) de azeitona preta picada",
+      "½ xícara (chá) de maionese light",
+      "2 xícaras (chá) de vinho branco seco",
+      "¼ de xícara (chá) de manteiga",
+      "2 xícaras (chá) de água fervente",
+      "1 lata de creme de leite light"
+    ],
+    "modo_preparo": [
+      "Tempere a carne com sal, pimenta e alho.",
+      "Misture a azeitona e a maionese. Faça um furo na carne e introduza a mistura.",
+      "Regue com metade do vinho e deixe marinar por 15 minutos.",
+      "Em uma panela com manteiga quente, doure a carne de todos os lados.",
+      "Adicione a água, tampe e cozinhe por 1h30, regando com o líquido que se formar.",
+      "Retire a carne, corte em fatias e reserve.",
+      "Junte o restante do vinho ao molho da panela e cozinhe por 10 minutos para reduzir.",
+      "Desligue o fogo, junte o creme de leite e misture. Sirva a carne com o molho."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "6g",
+      "fibras": "1g",
+      "proteinas": "40g",
+      "calorias": "450 kcal"
+    }
+  },
+  {
+    "titulo": "COSTELETA COM ERVAS",
+    "ingredientes": [
+      "4 folhas de louro",
+      "12 raminhos de tomilho fresco",
+      "12 costeletas de Porco magras",
+      "Sal e pimenta do reino a gosto",
+      "Molho chutney sem açúcar (para acompanhar)"
+    ],
+    "modo_preparo": [
+      "Esmigalhe as folhas de louro e pique o tomilho. Esfregue nas costeletas.",
+      "Deixe descansar em temperatura ambiente por 1 hora.",
+      "Asse na churrasqueira por cerca de 20 minutos, virando com frequência.",
+      "Arrume numa travessa, salpique com sal e pimenta e sirva com molho chutney."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "2g",
+      "fibras": "0g",
+      "proteinas": "35g",
+      "calorias": "300 kcal"
+    }
+  },
+  {
+    "titulo": "PANQUECA DE QUEIJO MINAS",
+    "ingredientes": [
+      "1 colher (sobremesa) de Azeite de oliva",
+      "1 xícara (chá) de leite desnatado",
+      "1/2 xícara (chá) de farinha de trigo 100% integral",
+      "1/2 xícara (chá) de farinha de aveia",
+      "3 ovos",
+      "Sal a gosto",
+      "400 gramas de queijo minas light",
+      "½ lata de Molho de tomate caseiro"
+    ],
+    "modo_preparo": [
+      "Bater os ingredientes da massa no liquidificador.",
+      "Esquentar o azeite em uma frigideira rasa e fritar porções da massa, dourando dos dois lados.",
+      "Recheio: Cortar o queijo em fatias grossas. Rechear cada panqueca com molho de tomate e uma fatia de queijo. Enrole.",
+      "Colocar em um refratário, cobrir com molho de tomate e levar ao forno por 20 minutos."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "15g",
+      "fibras": "3g",
+      "proteinas": "20g",
+      "calorias": "280 kcal"
+    }
+  },
+  {
+    "titulo": "LOMBO DE PORCO AO MOLHO DE LARANJA",
+    "ingredientes": [
+      "1 peça de lombo magro (aprox. 900g)",
+      "1 dente de alho picado",
+      "Suco de 2 laranjas",
+      "1 colher (sopa) de alecrim",
+      "1 cebola pequena picada",
+      "1 colher (sopa) de azeite de oliva",
+      "Sal e pimenta-do-reino a gosto"
+    ],
+    "modo_preparo": [
+      "Tempere o lombo com sal e pimenta.",
+      "Em uma frigideira com azeite e alecrim, sele o lombo de todos os lados.",
+      "Retire o lombo, corte em 4 medalhões e volte à frigideira para selar o centro. Desligue o fogo.",
+      "Acomode os medalhões em uma assadeira e leve ao forno pré-aquecido por 20 minutos.",
+      "Na mesma frigideira, refogue a cebola e o alho.",
+      "Acrescente o suco de laranja e cozinhe até reduzir pela metade. Tempere.",
+      "Retire o lombo do forno e sirva com o molho por cima."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "10g",
+      "fibras": "1g",
+      "proteinas": "40g",
+      "calorias": "350 kcal"
+    }
+  },
+  {
+    "titulo": "PICADINHO SOFISTICADO",
+    "ingredientes": [
+      "1 kg de filé mignon",
+      "1 colher (sopa) de óleo de coco",
+      "1 cebola grande ralada",
+      "5 dentes de alho amassados",
+      "1 colher (chá) de tomilho",
+      "2 colheres (chá) de orégano",
+      "Sal a gosto",
+      "1 xícara (chá) de vinho branco seco",
+      "1 colher (sobremesa) de molho inglês"
+    ],
+    "modo_preparo": [
+      "Corte o filé em cubinhos.",
+      "Em uma panela com óleo, frite a cebola e o alho.",
+      "Junte a carne, o tomilho, o orégano e refogue até dourar.",
+      "Tempere com sal, adicione o vinho e o molho inglês e cozinhe até a carne ficar macia e o caldo reduzir."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "5g",
+      "fibras": "1g",
+      "proteinas": "45g",
+      "calorias": "420 kcal"
+    }
+  },
+  {
+    "titulo": "CARNE AO FORNO PARA A FAMÍLIA TODA",
+    "ingredientes": [
+      "2 colheres (sopa) de manteiga",
+      "2 colheres (sopa) de azeite de oliva",
+      "3 kg de carne magra em cubos (ex: patinho, alcatra)",
+      "1 xícara (chá) de vinho branco seco",
+      "3 xícaras (chá) de caldo de carne caseiro (baixo sódio)",
+      "1 xícara (chá) de purê de tomate caseiro",
+      "1 colher (chá) de sal",
+      "½ colher (chá) de pimenta do reino",
+      "1,500 g de cenoura em rodelas",
+      "750 g de cebola miúda",
+      "12 batatas-doces médias em rodelas"
+    ],
+    "modo_preparo": [
+      "Numa frigideira, aqueça a manteiga e o óleo e doure a carne por partes. Transfira para uma panela grande.",
+      "Despeje o vinho na frigideira e cozinhe por 3 minutos. Adicione o caldo de carne, o purê, o sal e a pimenta; deixe ferver.",
+      "Na panela com a carne, arrume a cenoura, a cebola e cubra com a batata-doce.",
+      "Despeje a mistura de vinho por cima. Tampe e asse por 2 hours.",
+      "Destampe e asse por mais 1h30 a 2 horas, sem mexer."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "30g",
+      "fibras": "7g",
+      "proteinas": "50g",
+      "calorias": "600 kcal"
+    }
+  },
+  {
+    "titulo": "ABOBRINHA COM QUEIJO CREMOSO",
+    "ingredientes": [
+      "6 fatias de abobrinha italiana",
+      "50 gramas de queijo parmesão ralado",
+      "Molho de tomate caseiro",
+      "Ervas finas para salpicar",
+      "80g queijo cottage"
+    ],
+    "modo_preparo": [
+      "Sobre uma base de sua preferência (ex: fatia de pão integral, massa de wrap), adicione o molho de tomates salpicado com ervas finas.",
+      "Disponha as fatias de abobrinha e sobre elas, os pedaços de queijo cottage.",
+      "Salpique o parmesão e leve ao forno para assar."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "8g",
+      "fibras": "2g",
+      "proteinas": "10g",
+      "calorias": "150 kcal"
+    }
+  },
+  {
+    "titulo": "PEITO DE FRANGO DE PANELA",
+    "ingredientes": [
+      "5 filés de frango sem pele",
+      "1 xícara (chá) de caldo de galinha caseiro",
+      "½ xícara (chá) de aipo picadinho",
+      "1 cebola grande",
+      "½ colher (chá) de tomilho seco",
+      "1 folha de louro",
+      "Sal a gosto",
+      "6 grãos de pimenta do reino",
+      "1 ramo de salsinha",
+      "½ xícara (chá) de cenoura picada",
+      "1 pimentão vermelho e 1 verde picadinhos"
+    ],
+    "modo_preparo": [
+      "Arrume os filés no fundo de uma panela.",
+      "Junte o caldo de galinha e água o suficiente para cobri-los.",
+      "Adicione os demais ingredientes e tampe.",
+      "Leve ao fogo para ferver. Diminua a chama e cozinhe por 10 minutos, até o caldo reduzir e o frango dourar.",
+      "Mantenha a panela tampada até servir."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "7g",
+      "fibras": "2g",
+      "proteinas": "30g",
+      "calorias": "250 kcal"
+    }
+  },
+  {
+    "titulo": "PICADINHO DE CARNE",
+    "ingredientes": [
+      "1 colher (sopa) de azeite de oliva",
+      "1 cebola média ralada",
+      "4 dentes de alho amassados",
+      "1 kg de patinho moído",
+      "4 tomates sem pele e sem semente picados",
+      "1 pimentão verde e 1 vermelho em cubinhos",
+      "2 abobrinhas médias em cubinhos",
+      "Sal e pimenta do reino a gosto",
+      "2 colheres (sopa) de salsinha picada",
+      "1 colher (sopa) de cebolinha verde picada"
+    ],
+    "modo_preparo": [
+      "Em uma panela, frite o óleo, a cebola e o alho até a cebola murchar.",
+      "Junte a carne, misture bem e refogue em fogo baixo até cozinhar.",
+      "Junte o tomate, os pimentões, a abobrinha e tempere com sal e pimenta.",
+      "Cozinhe em fogo baixo até os legumes ficarem cozidos.",
+      "Retire do fogo e polvilhe com a salsinha e a cebolinha."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "9g",
+      "fibras": "3g",
+      "proteinas": "35g",
+      "calorias": "320 kcal"
+    }
+  },
+  {
+    "titulo": "ARROZ COLORIDO",
+    "ingredientes": [
+      "4 colheres (sopa) manteiga",
+      "3 xícaras (chá) arroz integral cozido",
+      "3 cebolas raladas",
+      "2 cenouras cozidas",
+      "½ maço de espinafre cozido",
+      "2 beterrabas cozidas",
+      "Queijo parmesão light ralado grosso para polvilhar",
+      "Sal a gosto"
+    ],
+    "modo_preparo": [
+      "Refogue 1 cebola ralada em 1 colher de manteiga. Bata no liquidificador com as cenouras e sal. Misture este creme com 1 xícara de arroz.",
+      "Repita o processo com beterraba e espinafre, criando três porções de arroz coloridas.",
+      "Unte um refratário e alterne camadas de cada cor de arroz.",
+      "Polvilhe com parmesão e leve ao micro-ondas por 6 a 8 minutos."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "40g",
+      "fibras": "6g",
+      "proteinas": "8g",
+      "calorias": "300 kcal"
+    }
+  },
+  {
+    "titulo": "FRANGO COM ALECRIM",
+    "ingredientes": [
+      "6 sobrecoxas sem pele",
+      "Sal e pimenta do reino a gosto",
+      "2 colheres (sopa) de manteiga",
+      "2 colheres (chá) de folhas de alecrim picadas",
+      "2 colheres (sopa) de cebolinha verde picada",
+      "¼ de xícara (chá) de vinho branco seco",
+      "1 xícara (chá) de caldo de galinha caseiro"
+    ],
+    "modo_preparo": [
+      "Salpique as sobrecoxas com sal e pimenta.",
+      "Em uma frigideira com 1 colher de manteiga, frite as sobrecoxas por 15 minutos ou até dourarem.",
+      "Vire-as, junte o alecrim e cozinhe por mais 10 a 15 minutos. Adicione a cebolinha e cozinhe por mais alguns segundos.",
+      "Transfira as sobrecoxas para uma travessa.",
+      "Na mesma frigideira, retire a gordura, junte o vinho e misture. Quando evaporar, adicione o caldo e cozinhe até reduzir a ¾ de xícara.",
+      "Acrescente o restante da manteiga, misture e espalhe o molho sobre as sobrecoxas."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "3g",
+      "fibras": "1g",
+      "proteinas": "30g",
+      "calorias": "280 kcal"
+    }
+  },
+  {
+    "titulo": "CHARUTINHO CAIPIRA",
+    "ingredientes": [
+      "6 folhas de couve-manteiga",
+      "1 e 1/2 xícara chá de caldo de legumes caseiro (baixo sódio)",
+      "1/2 xícara (chá) de purê de tomate caseiro",
+      "Salsinha picada (opcional)",
+      "200 g de carne moída magra",
+      "1/2 cebola ralada",
+      "1/2 lata de milho verde",
+      "1 colher (sopa) de salsa picada",
+      "1 colher (chá) de sal"
+    ],
+    "modo_preparo": [
+      "Corte cada folha de couve ao meio e escalde em água fervente. Reserve.",
+      "Recheio: Misture todos os ingredientes. Coloque recheio sobre cada metade de folha e enrole como um charuto.",
+      "Molho: Misture os ingredientes do molho.",
+      "Em uma panela, acomode os charutinhos, regue com o molho, tampe e cozinhe em fogo baixo por 30 minutos. Salpique salsinha e sirva."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "10g",
+      "fibras": "4g",
+      "proteinas": "15g",
+      "calorias": "180 kcal"
+    }
+  },
+  {
+    "titulo": "ALCATRA RECHEADA",
+    "ingredientes": [
+      "1kg de miolo de alcatra cortado em um bife grande",
+      "750ml de caldo de carne caseiro (baixo sódio)",
+      "50g de carne magra moída",
+      "1/4 xícara de farelo de aveia",
+      "4 colheres (sopa) de leite desnatado",
+      "1 cebola média picada",
+      "1 cenoura sem casca ralada",
+      "1 dente de alho picado",
+      "2 colheres (sopa) de salsinha picada",
+      "1 clara em neve",
+      "2 talos de aipo picados",
+      "Sal e pimenta a gosto",
+      "Azeite de oliva"
+    ],
+    "modo_preparo": [
+      "Tempere o bife de alcatra e reserve.",
+      "Processe a carne moída, o farelo de aveia e o leite. Despeje em um recipiente e adicione a cenoura, o alho, a salsinha e o aipo.",
+      "Refogue a cebola e junte à preparação. Adicione a clara em neve e tempere.",
+      "Recheie o bife, enrole e feche com barbante.",
+      "Em uma panela, doure a carne no azeite. Baixe o fogo, coloque o caldo de carne fervendo e cozinhe por 55 minutos.",
+      "Deixe descansar, corte em fatias e sirva."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "8g",
+      "fibras": "3g",
+      "proteinas": "50g",
+      "calorias": "450 kcal"
+    }
+  },
+  {
+    "titulo": "CAMARÃO GRELHADO COM ERVAS",
+    "ingredientes": [
+      "12 camarões grandes",
+      "1 dente de alho picado",
+      "3 colheres (sopa) de azeite de oliva",
+      "1 colher (chá) de manjericão",
+      "1 colher (chá) de tomilho",
+      "1 colher (chá) de manteiga",
+      "1 colher (chá) de sálvia",
+      "1 colher (sopa) de salsinha",
+      "Sal e pimenta-do-reino a gosto"
+    ],
+    "modo_preparo": [
+      "Limpe os camarões e tempere com sal e pimenta. Deixe marinar com um pouco do azeite por 10 minutos.",
+      "Em uma frigideira aquecida com o restante do azeite, grelhe os camarões dos dois lados até dourarem. Reserve.",
+      "Na mesma frigideira, refogue o alho com a manteiga e adicione as ervas.",
+      "Coloque os camarões em um prato e regue com o molho de ervas."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "2g",
+      "fibras": "1g",
+      "proteinas": "25g",
+      "calorias": "280 kcal"
+    }
+  },
+  {
+    "titulo": "COUVE FLOR DE FORNO",
+    "ingredientes": [
+      "500g de couve-flor em buquês",
+      "500ml de água",
+      "1 envelope de caldo de legumes em pó (baixo sódio)",
+      "1 tomate em fatias finas",
+      "2 ovos",
+      "2 colheres (sopa) de leite desnatado",
+      "2 colheres (sopa) de queijo parmesão light ralado",
+      "Sal a gosto",
+      "2 colheres (sopa) salsinha",
+      "1 colher (sopa) de ervas finas",
+      "200g de cogumelos em fatias",
+      "1 colher (sopa) de farinha de amêndoas"
+    ],
+    "modo_preparo": [
+      "Cozinhe a couve-flor na água com caldo de legumes. Escorra e coloque em um refratário.",
+      "Distribua as tiras de tomate por cima.",
+      "Bata os ovos, retire da batedeira e acrescente o leite, o queijo, o sal, a salsinha, as ervas e os cogumelos.",
+      "Coloque esta mistura sobre a couve-flor.",
+      "Polvilhe a farinha de amêndoas e leve ao forno pré-aquecido (200°C) por 20 minutos."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "10g",
+      "fibras": "4g",
+      "proteinas": "12g",
+      "calorias": "180 kcal"
+    }
+  },
+  {
+    "titulo": "GALANTINA DE FRANGO",
+    "ingredientes": [
+      "300 g de peito de frango cozido e desfiado",
+      "Azeite de oliva a gosto",
+      "Sal e pimenta do reino a gosto",
+      "1 pacotinho de gelatina sem sabor",
+      "½ litro de caldo de galinha caseiro",
+      "300 g de cenoura cozida em rodelas",
+      "4 galhos de salsinha",
+      "400 g de vagem cozida em rodelas finas",
+      "10 azeitonas verdes picadas",
+      "½ xícara (chá) de palmito, ervilha e milho para decorar"
+    ],
+    "modo_preparo": [
+      "Tempere o frango com azeite, sal e pimenta. Deixe repousar por 1 hora.",
+      "Dissolva a gelatina em água quente e junte o caldo de galinha.",
+      "Em uma fôrma molhada, despeje um pouco do caldo com gelatina. Decore com cenoura e salsinha, leve ao freezer para endurecer.",
+      "Faça camadas de frango, vagem e azeitona, regando com o caldo de gelatina entre elas e levando ao freezer para firmar.",
+      "A última camada deve ser de gelatina. Desenforme e decore com palmito, ervilha e milho."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "8g",
+      "fibras": "3g",
+      "proteinas": "25g",
+      "calorias": "220 kcal"
+    }
+  },
+  {
+    "titulo": "SOPA DE LEGUMES DIVINA",
+    "ingredientes": [
+      "400g de peito de frango em cubos",
+      "2 chuchus picados",
+      "2 cenouras picadas",
+      "3 xícaras (chá) de repolho em tiras",
+      "1 maço de agrião picado",
+      "2 tomates médios picados",
+      "2 dentes de alho picados",
+      "½ abobrinha picada",
+      "1 litro de água",
+      "1 tablete de caldo de frango zero gordura",
+      "1 colher sopa de azeite de oliva",
+      "Sal e pimenta-do-reino a gosto"
+    ],
+    "modo_preparo": [
+      "Em uma panela com azeite, refogue o alho. Acrescente os cubos de frango e o caldo zero e refogue até dourar.",
+      "Acrescente os demais ingredientes picados e cubra com água.",
+      "Tempere com sal e pimenta e cozinhe na pressão por 5 minutos.",
+      "Retire do fogo e sirva."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "15g",
+      "fibras": "5g",
+      "proteinas": "20g",
+      "calorias": "250 kcal"
+    }
+  },
+  {
+    "titulo": "SOPA CREME DE VAGEM",
+    "ingredientes": [
+      "400 gramas: Feijão verde natural (vagem)",
+      "100 gramas: Filé de frango",
+      "3 unidades: Alho dente",
+      "1 unidade: Cebola picada",
+      "2 colheres de chá: Orégano desidratado",
+      "1 colher de sopa: Azeite de oliva",
+      "1.5 colheres de sopa: Farinha de aveia (para espessar)",
+      "240 mililitros: Leite desnatado",
+      "2 colheres de sopa: Molho de tomate caseiro",
+      "2 1/2 gramas: Pimenta caiena (dedo de moça)",
+      "1 1/2 litros: Água quente"
+    ],
+    "modo_preparo": [
+      "Higienize e corte os legumes. Grelhe e desfie o frango.",
+      "Refogue a cebola, o alho e o orégano no azeite por 1 minuto.",
+      "Junte a água quente e as vagens.",
+      "Acrescente a farinha de aveia dissolvida no leite, o frango, sal, molho de tomate e a pimenta.",
+      "Deixe em fogo médio por 25 minutos. Sirva em seguida."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "12g",
+      "fibras": "4g",
+      "proteinas": "10g",
+      "calorias": "150 kcal"
+    }
+  },
+  {
+    "titulo": "BADEJO COM MOLHO DE PIMENTÃO",
+    "ingredientes": [
+      "½ pimentão em tirinhas",
+      "1 xícara (chá) de caldo de peixe caseiro",
+      "1 xícara (chá) de purê de tomate caseiro",
+      "30 g de cebolinha picada",
+      "½ folha de louro",
+      "1/8 de colher (chá) de orégano",
+      "Sal de alho a gosto",
+      "Páprica a gosto",
+      "6 filés de badejo",
+      "Sal e pimenta do reino a gosto"
+    ],
+    "modo_preparo": [
+      "Numa panela, cozinhe o pimentão no caldo de peixe até ficar tenro.",
+      "Adicione o purê de tomate, a cebolinha, o louro, o orégano, o sal de alho e a páprica. Cozinhe por 10 minutos e retire o louro.",
+      "Enquanto isso, tempere os filés de peixe com sal e pimenta.",
+      "Arrume-os em um pirex, despeje o molho por cima e asse a 190°C por 15 minutos."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "8g",
+      "fibras": "2g",
+      "proteinas": "30g",
+      "calorias": "280 kcal"
+    }
+  },
+  {
+    "titulo": "QUIBE DE LEGUMES",
+    "ingredientes": [
+      "200 g de trigo para quibe",
+      "200 g de abobrinhas verdes",
+      "200 g de cenouras",
+      "200 g de brócolis",
+      "200 g de palmito",
+      "200 g de champignon",
+      "3 colheres (sopa) de hortelã",
+      "3 colheres de (sopa) de cebola",
+      "Molho de soja light para pincelar"
+    ],
+    "modo_preparo": [
+      "Deixar o trigo de molho em água e sal por duas horas, escorrendo a seguir.",
+      "Corte e refogue a abobrinha. Cozinhe as cenouras. Ferva os brócolis e o palmito. Corte os champignons.",
+      "Misture todos os ingredientes com o trigo, a cebola e o hortelã.",
+      "Coloque em uma forma, pincele com molho de soja e leve ao forno por alguns minutos para corar."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "25g",
+      "fibras": "8g",
+      "proteinas": "10g",
+      "calorias": "200 kcal"
+    }
+  },
+  {
+    "titulo": "TOMATE RECHEADO COM CREME DE FRANGO",
+    "ingredientes": [
+      "6 tomates grandes maduros e firmes",
+      "1 cebola picada",
+      "350g de peito de frango cozido e desfiado",
+      "2 colheres chá de azeite de oliva",
+      "3 colheres sopa creme de ricota light",
+      "Sal e pimenta-do-reino a gosto"
+    ],
+    "modo_preparo": [
+      "Corte a tampa dos tomates e retire a polpa com uma colher. Reserve.",
+      "Em uma panela, aqueça o azeite e refogue a cebola.",
+      "Adicione o frango desfiado, a polpa do tomate e refogue por mais 5 minutos.",
+      "Adicione o creme de ricota, tempere com sal e pimenta e misture bem.",
+      "Recheie os tomates, coloque em uma assadeira e leve ao forno preaquecido por 15 minutos."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "7g",
+      "fibras": "2g",
+      "proteinas": "25g",
+      "calorias": "240 kcal"
+    }
+  },
+  {
+    "titulo": "FRANGO GRELHADO COM ERVAS",
+    "ingredientes": [
+      "4 filés de frango (média de 750 g)",
+      "2 colheres (sopa) de azeite de oliva",
+      "¼ de xícara (chá) de suco de limão",
+      "Sal e pimenta do reino a gosto",
+      "1 colher (chá) de alho picadinho",
+      "½ colher (chá) de coentro seco",
+      "1/8 de colher (chá) de pimenta calabresa em floco",
+      "1 colher (chá) de orégano",
+      "1 colher (sopa) de manteiga"
+    ],
+    "modo_preparo": [
+      "Num pirex, misture o azeite, suco de limão, sal, pimenta, alho, coentro, pimenta calabresa e orégano.",
+      "Arrume os filés no pirex e deixe marinar por 1 hora.",
+      "Grelhe os filés na churrasqueira por cerca de 3 minutos de cada lado, virando por 10 minutos no total.",
+      "Transfira para uma travessa e pincele com manteiga derretida."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "2g",
+      "fibras": "1g",
+      "proteinas": "40g",
+      "calorias": "350 kcal"
+    }
+  },
+  {
+    "titulo": "NHOQUE DE BATATA-DOCE",
+    "ingredientes": [
+      "5 Batatas-doces pequenas",
+      "2 colheres de sopa de Manteiga",
+      "2 e ½ xícaras de chá de Ricota light",
+      "2 colheres de sopa de Farinha de amêndoas",
+      "2 colheres de sopa de Fibra de trigo",
+      "1 Ovo",
+      "3 xícaras de chá de Folhas de Espinafre",
+      "1 colher de sopa de Azeite de oliva",
+      "2 colheres de chá de Sal",
+      "½ colher de chá de Pimenta do reino",
+      "½ colher de chá de Noz-moscada"
+    ],
+    "modo_preparo": [
+      "Cozinhe e esprema as batatas-doces. Amasse a ricota.",
+      "Bata o espinafre no liquidificador com a manteiga, o ovo e o azeite.",
+      "Em uma tigela, junte a mistura do liquidificador, a farinha de amêndoas, a fibra de trigo, as batatas e a ricota. Amasse bem.",
+      "Tempere com sal, pimenta e noz-moscada.",
+      "Enrole a massa, corte os nhoques e cozinhe em água fervente até subirem."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "25g",
+      "fibras": "6g",
+      "proteinas": "15g",
+      "calorias": "290 kcal"
+    }
+  },
+  {
+    "titulo": "RISOTO DE ARROZ INTEGRAL E FRANGO DESFIADO",
+    "ingredientes": [
+      "200 g de peito de frango desfiado",
+      "280 g de arroz integral cozido",
+      "4 colheres (sopa) de requeijão light",
+      "50 ml de água",
+      "1/2 cebola picada",
+      "1/2 colher (chá) de caldo de galinha caseiro",
+      "1 colher (sopa) de azeite de oliva",
+      "1 dente de alho picado",
+      "1/2 pimentão vermelho picado",
+      "1/2 cenoura ralada",
+      "Cheiro verde a gosto",
+      "Sal a gosto"
+    ],
+    "modo_preparo": [
+      "Em uma panela, refogue a cebola e o alho no azeite. Adicione o pimentão, a cenoura, o frango e o caldo de galinha. Refogue mais e coloque a água.",
+      "Despeje o arroz integral já cozido no refogado, adicione o requeijão e mexa bem.",
+      "Finalize com o cheiro verde e sirva."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "35g",
+      "fibras": "5g",
+      "proteinas": "20g",
+      "calorias": "380 kcal"
+    }
+  },
+  {
+    "titulo": "FEIJOADA LIGHT",
+    "ingredientes": [
+      "1 colher de (sopa) de azeite de oliva",
+      "100 gramas de lombo de porco magro",
+      "100 gramas de carne seca magra",
+      "150 gramas de feijão preto",
+      "Cheiro verde picado à gosto",
+      "Cebola picada à gosto",
+      "Dente de alho picado à gosto",
+      "Louro à gosto"
+    ],
+    "modo_preparo": [
+      "Deixe o feijão e as carnes de molho de véspera, trocando a água das carnes.",
+      "No dia, ferva as carnes salgadas e jogue a água fora. Ferva novamente. (Para retirar a gordura, resfrie a água e remova a camada solidificada).",
+      "Cozinhe o feijão.",
+      "Adicione um refogado feito com cebola, alho, cheiro verde e louro no azeite, e as carnes em pedaços.",
+      "Verifique o sal e sirva."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "20g",
+      "fibras": "8g",
+      "proteinas": "25g",
+      "calorias": "350 kcal"
+    }
+  },
+  {
+    "titulo": "CALDO VERDE",
+    "ingredientes": [
+      "2 colheres de sopa (13ml) de azeite de oliva",
+      "1 xícara de chá (84g) de Cebola picada",
+      "2 dentes (10g) de Alho picado",
+      "2 tabletes de Caldo de legumes caseiro (baixo sódio)",
+      "½ xícara de chá (18g) de Tomate picado",
+      "2 folhas de Louro",
+      "10 xícaras de chá (1600ml) de Água",
+      "2 colheres de chá (10,16g) Sal",
+      "2 colheres de sopa (22g) Fubá",
+      "1 ½ xícara de chá (37,5g) Folhas de couve",
+      "3 colheres de sopa (18g) Coentro e cebolinha picada"
+    ],
+    "modo_preparo": [
+      "Dourar a cebola e o alho no azeite.",
+      "Juntar o tomate, o louro, o tempero verde, os tabletes de caldo de legumes e a couve picada.",
+      "Acrescentar 7 ½ xícaras de chá de água.",
+      "À parte, dissolver o fubá em 2 ½ xícaras de chá de água.",
+      "Adicionar o fubá dissolvido ao caldo e levar ao fogo para cozinhar por 5 minutos."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "10g",
+      "fibras": "3g",
+      "proteinas": "2g",
+      "calorias": "80 kcal"
+    }
+  },
+  {
+    "titulo": "FRANGO ASSADO COM MAÇÃ E BATATA-DOCE",
+    "ingredientes": [
+      "1 frango de 1,500 g sem pele",
+      "1 maçã média em quatro",
+      "1 cebola média em quatro",
+      "2 dentes de alho grandes em quatro",
+      "8 batatas-doces médias com casca",
+      "½ xícara (chá) de manteiga derretida",
+      "1 colher (chá) de tomilho seco",
+      "1 colher (chá) de páprica",
+      "½ colher (chá) de sal"
+    ],
+    "modo_preparo": [
+      "Lave o frango e dobre as asas para trás.",
+      "Misture a maçã, a cebola e o alho e recheie a cavidade da ave. Amarre as coxas.",
+      "Coloque o frango numa assadeira. Corte as batatas-doces em rodelas sem desgrudá-las e disponha ao redor.",
+      "Misture a manteiga, tomilho, páprica e sal e pincele sobre o frango e as batatas.",
+      "Asse a 190°C por cerca de 1h45, pincelando a cada 30 minutos."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "28g",
+      "fibras": "6g",
+      "proteinas": "40g",
+      "calorias": "500 kcal"
+    }
+  },
+  {
+    "titulo": "SALADA CALIFÓRNIA",
+    "ingredientes": [
+      "3 filés de frango",
+      "3 ovos cozidos",
+      "3 colheres (chá) de milho",
+      "½ xícara (chá) de palmito",
+      "6 folhas de alface americana",
+      "2 xícaras (chá) de agrião sem o talo",
+      "½ xícara (chá) de abacate",
+      "2 colheres (sopa) de azeite de oliva",
+      "Sal, vinagre de maçã e pimenta-do-reino a gosto"
+    ],
+    "modo_preparo": [
+      "Tempere e grelhe os filés de frango no azeite. Corte em iscas e reserve.",
+      "Cozinhe, descasque e corte os ovos em rodelas.",
+      "Em um prato, arrume o alface, o agrião, o palmito e o abacate cortados.",
+      "Adicione o milho, as iscas de frango e os ovos.",
+      "Tempere com azeite, vinagre e sal."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "12g",
+      "fibras": "5g",
+      "proteinas": "30g",
+      "calorias": "400 kcal"
+    }
+  },
+  {
+    "titulo": "PICANHA ASSADA AO ALHO COM TANGERINA",
+    "ingredientes": [
+      "1 picanha de aproximadamente 1kg sem gordura",
+      "1 colher (sopa) de sal",
+      "6 dentes de alho amassados",
+      "Sal e pimenta do reino a gosto",
+      "2 xícaras (chá) de suco de tangerina"
+    ],
+    "modo_preparo": [
+      "Tempere a picanha com sal, alho e pimenta.",
+      "Leve ao forno preaquecido a 220º C por 1 hora e 30 minutos.",
+      "Despeje o suco de tangerina aos poucos sobre a picanha e asse por mais 15 minutos.",
+      "Vire a picanha e regue com mais suco até que fique dourada.",
+      "Sirva bem quente."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "10g",
+      "fibras": "1g",
+      "proteinas": "50g",
+      "calorias": "550 kcal"
+    }
+  },
+  {
+    "titulo": "LASANHA DE BERINGELA",
+    "ingredientes": [
+      "1 kg de beringela",
+      "250g de carne magra moída",
+      "1 cebola média cortada em cubinhos",
+      "520g polpa de tomate caseira",
+      "1 copo água",
+      "Sal",
+      "200g queijo minas frescal light cortado em cubinhos",
+      "1 colher (sopa) queijo parmesão ralado"
+    ],
+    "modo_preparo": [
+      "Descasque a beringela, corte em fatias e cozinhe em água com sal por 4 minutos.",
+      "Refogue a carne moída com cebola, acrescente a polpa de tomate e a água. Deixe apurar.",
+      "Monte a lasanha em uma forma média: um pouco de molho, camadas de beringela intercaladas com queijo fresco, regando sempre com molho.",
+      "Polvilhe queijo ralado e leve ao forno quente por 5 minutos."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "15g",
+      "fibras": "5g",
+      "proteinas": "20g",
+      "calorias": "280 kcal"
+    }
+  },
+  {
+    "titulo": "CANELONE DE BERINJELA",
+    "ingredientes": [
+      "1 berinjela grande fatiada em bifes",
+      "50g de espinafre cozido e picado",
+      "1 xícara (chá) de extrato de tomate caseiro",
+      "100g de ricota light picada",
+      "½ xícara (chá) de queijo minas frescal light ralado",
+      "Sal e pimenta-do-reino a gosto"
+    ],
+    "modo_preparo": [
+      "Grelhe as fatias de berinjela e reserve.",
+      "Em uma tigela, misture o espinafre, a ricota e tempere com sal e pimenta.",
+      "Preencha as fatias de berinjela com o recheio e enrole.",
+      "Em um refratário, coloque os canelones, cubra com o extrato de tomate e polvilhe o queijo branco.",
+      "Leve ao forno preaquecido a 160ºC por 15 minutos."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "10g",
+      "fibras": "4g",
+      "proteinas": "12g",
+      "calorias": "160 kcal"
+    }
+  },
+  {
+    "titulo": "LASANHA DE PEIXE",
+    "ingredientes": [
+      "1 pacote de massa fresca para lasanha integral (500g)",
+      "2 col. (sopa) de azeite de oliva",
+      "1 cebola ralada",
+      "2 dentes de alho amassados",
+      "500g de tomates batidos no liquidificador",
+      "2 envelopes de tempero em pó para peixe (baixo sódio)",
+      "500g de filé de pescada em pedaços",
+      "2 col. (sopa) de salsinha picada",
+      "Manteiga para untar",
+      "150g de mussarela light ralada"
+    ],
+    "modo_preparo": [
+      "Doure a cebola e o alho no azeite. Adicione os tomates e o tempero para peixe, cozinhe por 10 minutos.",
+      "Coloque os filés de pescada no molho e cozinhe por mais 3 minutos. Salpique a salsinha.",
+      "Unte um refratário. Faça uma camada de molho, uma de massa e uma de mussarela. Repita.",
+      "Termine com a mussarela e leve ao forno pré-aquecido até derreter."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "35g",
+      "fibras": "5g",
+      "proteinas": "25g",
+      "calorias": "400 kcal"
+    }
+  },
+  {
+    "titulo": "ESTROGONOFE DE FRANGO COM BERINJELA",
+    "ingredientes": [
+      "300 g de filé de frango em tiras",
+      "3 tomates sem pele e sem sementes picados",
+      "1 colher (sopa) de mostarda",
+      "2 colheres (sopa) de catchup sem açúcar",
+      "1/2 colher (sopa) de sal",
+      "1 pitada de pimenta-do-reino",
+      "1 colher (chá) de azeite de oliva",
+      "1 cebola picada",
+      "1 berinjela média em cubinhos",
+      "1 caixinha de creme de leite light (200 g)",
+      "Salsa picada a gosto"
+    ],
+    "modo_preparo": [
+      "Tempere o frango com sal e pimenta. Aqueça o azeite e doure o frango.",
+      "Junte a cebola e a berinjela e refogue para amaciar.",
+      "Misture o restante dos ingredientes (exceto creme de leite e salsa) e deixe por 5 minutos.",
+      "Retire do fogo, acrescente o creme de leite e a salsa e sirva."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "12g",
+      "fibras": "4g",
+      "proteinas": "22g",
+      "calorias": "280 kcal"
+    }
+  },
+  {
+    "titulo": "PIMENTÕES RECHEADOS",
+    "ingredientes": [
+      "1 pimentão verde",
+      "1 pimentão amarelo",
+      "1 pimentão vermelho",
+      "1 colher de sopa de azeite",
+      "250g de carne magra moída",
+      "1 cebola média ralada",
+      "Sal a gosto",
+      "2 colheres de sopa de azeitonas verdes picadas",
+      "2 colheres de sopa de salsinha picada",
+      "2 claras cozidas",
+      "Palitos de dente"
+    ],
+    "modo_preparo": [
+      "Retire a tampa e as sementes dos pimentões.",
+      "Refogue a carne. Assim que secar, acrescente a cebola, sal, azeitonas e salsinha.",
+      "Cozinhe os ovos e retire as gemas.",
+      "Recheie metade do pimentão com carne, coloque as claras e complete com mais carne.",
+      "Coloque a tampa, prenda com palitos e asse em forno pré-aquecido (200Cº) por 20 minutos."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "10g",
+      "fibras": "3g",
+      "proteinas": "20g",
+      "calorias": "250 kcal"
+    }
+  },
+  {
+    "titulo": "TORTA DE CENOURA E MANDIOQUINHA",
+    "ingredientes": [
+      "500g de mandioquinha",
+      "2 col. (sopa) manteiga",
+      "2 ovos",
+      "150g mussarela light ralada",
+      "150g ricota amassada",
+      "3 col. (sopa) cheiro verde picado",
+      "2 col. (sopa) queijo parmesão light ralado",
+      "1 cenoura grande ralada",
+      "1 cebola pequena ralada",
+      "Sal a gosto",
+      "1 col. (sopa) farinha de amêndoas"
+    ],
+    "modo_preparo": [
+      "Cozinhe e esprema as mandioquinhas.",
+      "Acrescente os ingredientes restantes, com exceção da farinha.",
+      "Unte uma forma de bolo inglês (22x10cm) e polvilhe com a farinha de amêndoas.",
+      "Despeje a mistura e leve ao forno pré-aquecido por 30 minutos, ou até dourar."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "25g",
+      "fibras": "5g",
+      "proteinas": "15g",
+      "calorias": "300 kcal"
+    }
+  },
+  {
+    "titulo": "ABOBRINHA RECHEADA COM ATUM",
+    "ingredientes": [
+      "2 abobrinhas",
+      "2 colheres (sopa) de azeite de oliva",
+      "2 colheres (sopa) de cebolinha verde picada",
+      "1 e ½ xícara de atum light enlatado e escorrido",
+      "1 cebola picada",
+      "Sal e pimenta-do-reino a gosto",
+      "Queijo parmesão light ralado a gosto"
+    ],
+    "modo_preparo": [
+      "Corte as abobrinhas em rodelas de 3-4 cm. Retire a polpa e reserve.",
+      "Refogue no azeite a cebola, o atum e a polpa da abobrinha. Tempere com sal e pimenta.",
+      "Recheie as abobrinhas, polvilhe com queijo ralado e cebolinha.",
+      "Leve ao forno médio (180°C) por 30 minutos, ou até gratinar."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "8g",
+      "fibras": "3g",
+      "proteinas": "20g",
+      "calorias": "220 kcal"
+    }
+  },
+  {
+    "titulo": "CREME DE ABÓBORA MORANGA",
+    "ingredientes": [
+      "1 abóbora moranga",
+      "2 cebolas",
+      "2 pitadas de sal",
+      "2 colheres de creme de ricota light (opcional)"
+    ],
+    "modo_preparo": [
+      "Cozinhe na panela de pressão por 15 minutos a abóbora inteira (com casca e semente), as cebolas e o sal.",
+      "Depois de frio, bater tudo no liquidificador.",
+      "Ao servir, acrescente temperos verdes picados.",
+      "Opcional: adicione duas colheres de creme de ricota light."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "15g",
+      "fibras": "4g",
+      "proteinas": "3g",
+      "calorias": "90 kcal"
+    }
+  },
+  {
+    "titulo": "BOLINHOS DE ARROZ INTEGRAL ASSADOS",
+    "ingredientes": [
+      "600 gramas: Arroz integral cozido",
+      "4 colheres de sopa: Aveia em flocos",
+      "1 Ovo",
+      "2 colheres de sopa: Queijo parmesão ralado light"
+    ],
+    "modo_preparo": [
+      "Preaqueça o forno a 210°C.",
+      "Numa tigela misture bem todos os ingredientes com as mãos.",
+      "Molde bolinhas do tamanho que quiser.",
+      "Unte uma assadeira antiaderente com azeite.",
+      "Leve ao forno por cerca de 25 minutos, desligue o forno e deixe mais 10 minutos."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "30g",
+      "fibras": "4g",
+      "proteinas": "8g",
+      "calorias": "250 kcal"
+    }
+  },
+  {
+    "titulo": "SARDINHA NA PANELA DE PRESSÃO (ESCABECHE)",
+    "ingredientes": [
+      "800g de sardinhas limpas (sem cabeça e rabo)",
+      "5 cebolas",
+      "1 dente de alho",
+      "1 xícara (chá) de azeite de oliva",
+      "6 folhas de manjericão",
+      "1 xícara (chá) de vinagre de maçã",
+      "½ xícara (chá) de água",
+      "Sal e pimenta-do-reino a gosto"
+    ],
+    "modo_preparo": [
+      "Corte as cebolas em rodelas grossas e acomode no fundo da panela de pressão.",
+      "Coloque as sardinhas sobre as cebolas.",
+      "Adicione o vinagre, o azeite, o alho, o manjericão e a água.",
+      "Tempere com sal e pimenta.",
+      "Tampe a panela e, assim que pegar pressão, cozinhe por 40 minutos.",
+      "Deixe esfriar completamente antes de abrir."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "7g",
+      "fibras": "2g",
+      "proteinas": "25g",
+      "calorias": "350 kcal"
+    }
+  },
+  {
+    "titulo": "ROCAMBOLE DE PEITO DE PERU",
+    "ingredientes": [
+      "1 peito de peru grande desossado e sem pele",
+      "Sal e pimenta do reino a gosto",
+      "2 dentes de alho amassados",
+      "2 xícaras (chá) de suco de laranja",
+      "1 cebola ralada",
+      "2 cenouras raladas",
+      "3 talos de salsão picado",
+      "1 xícara (chá) de champignon em lâminas",
+      "1 xícara (chá) de caldo de galinha caseiro",
+      "1 colher (sopa) de farinha de aveia"
+    ],
+    "modo_preparo": [
+      "Abra o peito de peru, formando um bife, e tempere com sal, pimenta, alho e suco de laranja. Deixe marinar por 1 hora.",
+      "Disponha sobre o peito a cebola, cenoura, salsão e champignon. Tempere e enrole como um rocambole. Amarre com barbante.",
+      "Coloque em uma assadeira untada, despeje a marinada, cubra com papel alumínio e asse a 175ºC por 25 minutos.",
+      "Retire o papel alumínio e deixe dourar.",
+      "Coe o molho da assadeira em uma panela, junte o caldo de galinha e a farinha de aveia, e leve ao fogo para engrossar.",
+      "Corte o rocambole em fatias e sirva com o molho."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "15g",
+      "fibras": "4g",
+      "proteinas": "45g",
+      "calorias": "400 kcal"
+    }
+  },
+  {
+    "titulo": "TORTA VEGETAL EM CAMADAS",
+    "ingredientes": [
+      "1 beringela grande em fatias",
+      "4 abobrinhas em fatias",
+      "Sal e pimenta do reino a gosto",
+      "2 tomates grandes em fatias",
+      "2 colheres (sopa) de alho moído",
+      "1/4 de xícara (chá) de folhas de manjericão picadas",
+      "1/2 xícara (chá) de farelo de aveia",
+      "1/4 de xícara (chá) de parmesão light ralado"
+    ],
+    "modo_preparo": [
+      "Grelhe a berinjela e a abobrinha temperadas com sal e pimenta. Reserve.",
+      "Em uma assadeira de fundo removível, faça uma camada com 1/3 da beringela.",
+      "Por cima, coloque metade da abobrinha e do tomate, polvilhando alho, manjericão, sal e pimenta.",
+      "Repita o procedimento, terminando com beringela.",
+      "Distribua o farelo de aveia e o parmesão.",
+      "Leve ao forno pré-aquecido e asse por 30 minutos."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "18g",
+      "fibras": "6g",
+      "proteinas": "10g",
+      "calorias": "200 kcal"
+    }
+  },
+  {
+    "titulo": "BERINJELA RECHEADA COM FRANGO",
+    "ingredientes": [
+      "1 berinjela grande",
+      "150g de peito de frango",
+      "1 tomate picado",
+      "1/3 de pimentão amarelo picado",
+      "1 cebola pequena picada",
+      "Salsinha, sal e pimenta à gosto",
+      "1 colher de sopa de molho de tomate caseiro"
+    ],
+    "modo_preparo": [
+      "Corte a berinjela ao meio, retire o miolo e pique-o.",
+      "Grelhe e desfie o frango.",
+      "Refogue a cebola, pimentão e o frango desfiado.",
+      "Acrescente o miolo da berinjela, o tomate, o molho e os temperos. Cozinhe rapidamente.",
+      "Recheie as berinjelas.",
+      "Coloque em uma forma com um pouco de água e asse por 20 minutos ou até ficarem macias."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "12g",
+      "fibras": "5g",
+      "proteinas": "18g",
+      "calorias": "200 kcal"
+    }
+  },
+  {
+    "titulo": "BISTECA DE PORCO ASSADA",
+    "ingredientes": [
+      "8 Bistecas de Porco magras",
+      "1 Colher (sopa) de manteiga sem sal",
+      "2 Dentes de Alho",
+      "Suco de 1 Limão",
+      "Sal a gosto"
+    ],
+    "modo_preparo": [
+      "Tempere as bistecas com o limão e o sal e deixe descansando.",
+      "Amasse os alhos e misture com a manteiga para fazer uma pasta.",
+      "Passe a pasta de manteiga com alho em cada bisteca, nos dois lados.",
+      "Acomode em um refratário e leve ao forno preaquecido a 180ºC por 25 minutos.",
+      "Vire as bistecas e asse por mais 25 minutos."
+    ],
+    "informacao_nutricional": {
+      "carboidratos": "1g",
+      "fibras": "0g",
+      "proteinas": "30g",
+      "calorias": "280 kcal"
+    }
+  }
+]
