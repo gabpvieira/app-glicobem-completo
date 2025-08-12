@@ -1,6 +1,6 @@
 
 {
-  "ativo": false,
+  "ativo": true,
   "mensagem": "Faça o PIX com os dados abaixo e envie o comprovante no WhatsApp para liberar o acesso vitalício.",
   "whatsapp_comprovante_url": "https://wa.me/558499389121?text=Ol%C3%A1%2C%20realizei%20o%20pagamento%20para%20liberar%20meu%20acesso%20ao%20GlicoBem.",
   "versao": "1.0.0"
